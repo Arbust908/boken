@@ -183,9 +183,46 @@ Hay tres tipos de descansos.
 
 ## Magic
 
-Magic is a rare occurrence in the world, does who can use it are regarded as powerful beings to be respected, feared or even worshipped. The secrets of magic is tightly guarded and almost forgotten and buried deep into the wilderness.
+Magic is a rare occurrence in the world, does who can use it are regarded as powerful beings to be respected, feared or even worshipped. The secrets of magic is tightly guarded and almost forgotten and buried deep into the wilderness. The few who know the words of power can channel their mana to cast spells. Masters can weave multiple words to create powerful effects.
 
-The concept of Words of Power offers a canvas for creativity and depth in spellcasting. Here’s a simple yet dynamic framework:
+To be able to cast a spell you need to know at least one word of power, you should also have the mana points to cast it and then roll an [INT] save to see if you can control the spell. Control works as a range:
+
+- If you roll under the control number/s you misscast the spell and you take a mana burn.
+- If you roll the control number/s you cast the spell as intended.
+- If you roll over the control number/s you overcast the spell may have extra effects.
+
+### Words of Power
+
+Words of power are writen in the ancient language of the gods. They are the building blocks of magic. The more words you know the more powerful spells you can cast.
+
+Here is a list of words of power:
+
+- Absorb
+- Armor
+- Arrow
+- Bind
+- Blade
+- Blood
+- Blossom
+- Bolt
+- Bone
+- Burn
+- Crystal
+- Duplicate
+- Echo
+- Fade
+- Flame
+- Hand
+- Heal
+- Jar
+- Light
+- Shield
+- Thorn
+- Whip
+- Wither
+- Wood
+
+<!-- The concept of Words of Power offers a canvas for creativity and depth in spellcasting. Here’s a simple yet dynamic framework:
 
 Discovery and Learning: Magic users begin with a few basic Words of Power and can discover more through exploration, study, or interaction with mystical entities. Each word holds a specific element or concept, such as Fire, Water, Mind, Time, etc.
 Combination Spells: Players create spells by combining Words of Power. The order and selection of words affect the spell's outcome, allowing for a vast array of effects. For example, combining "Fire" and "Arrow" might create a flaming projectile, while "Silence" and "Mind" could yield a spell that blocks magical detection.
@@ -207,60 +244,16 @@ Let's incorporate your words into a system that encourages creativity and tactic
 
 Basic Combos: Start by defining basic combinations of words that result in straightforward spells. For example:
 
-Burn + Arrow = A fiery arrow that seeks its target.
-Heal + Hand = A touch that closes wounds and restores vitality.
-Shield + Armor = An enhanced defensive spell that absorbs more damage.
 Advanced Combos: Introduce the concept of advanced spells that require a higher level of Mana Control and possibly more words. For example:
 
 Duplicate + Blade + Thorn = Creates multiple thorned blades that orbit the caster, attacking nearby enemies.
 Absorb + Crystal + Light = A spell that absorbs light to fill a crystal, which can then be used as a source of illumination or to blind enemies.
+
 Environmental and Situational Modifiers: Spells can have different effects based on the environment or the situation. For instance, a Blossom spell could have healing properties in a forest but become toxic in a swamp.
 
 Ritual Spells: For powerful effects, require a combination of specific Words of Power, Mana, Grit, and environmental conditions to perform a ritual. This could involve creating protective wards, summoning creatures, or changing the weather.
 
 Grit as a Catalyst: For spells that push beyond the caster's limits, Grit can act as a catalyst, increasing the spell's power but at a personal risk. For example, using Flame + Whip + Grit could create a devastating inferno whip that also burns the caster, reducing Grit but dealing massive damage.
-
-Absorb
-
-Burn
-
-Heal
-
-Armor
-
-Blade
-
-Blossom
-
-Duplicate
-
-Wither
-
-Arrow
-
-Bolt
-
-Hand
-
-Shield
-
-Blood
-
-Crystal
-
-Jar
-
-Whip
-
-Bone
-
-Flame
-
-Light
-
-Wood
-
-Thorn
 
 Attributes for Words of Power
 Offensive (Damage): The base damage a word can inflict. For example, "Burn" could have a higher base damage compared to "Bolt." This attribute is crucial for spells intended to harm or destroy.
@@ -286,28 +279,31 @@ Critical Casts and Misspells: The Control attribute introduces a skill element t
 
 Mana and Grit Management: Players must manage their Mana and Grit carefully, balancing the need for powerful spells with the risk of depleting these resources. Choosing when to use Grit to empower a spell adds a layer of tactical decision-making, especially in dire situations.
 
-This system encourages players to engage deeply with the magic mechanics, making spellcasting a dynamic and integral part of the Bōken experience. Players will need to think carefully about their choices, adapt to the outcomes of their spells, and explore the world to discover new Words of Power and combinations.
+This system encourages players to engage deeply with the magic mechanics, making spellcasting a dynamic and integral part of the Bōken experience. Players will need to think carefully about their choices, adapt to the outcomes of their spells, and explore the world to discover new Words of Power and combinations. -->
 
-| Word      | Offensive | Defensive | Effect           | Cost | Control | Mana Burn           |
-| --------- | --------- | --------- | ---------------- | ---- | ------- | ------------------- |
-| Absorb    | 0         | 5         | Mana recharge    | 3    | High    | None                |
-| Burn      | 8         | 0         | Ignite           | 6    | Medium  | Self-damage         |
-| Heal      | 0         | 0         | Healing          | 4    | High    | None                |
-| Armor     | 0         | 7         | Damage reduction | 5    | Medium  | None                |
-| Blade     | 5         | 0         | Sharpness        | 4    | High    | None                |
-| Blossom   | 0         | 0         | Growth           | 3    | High    | None                |
-| Duplicate | 0         | 0         | Clone            | 7    | Low     | Uncontrolled clone  |
-| Wither    | 6         | 0         | Decay            | 5    | Medium  | Self-weakness       |
-| Arrow     | 4         | 0         | Precision        | 3    | High    | None                |
-| Bolt      | 7         | 0         | Shock            | 5    | Medium  | Stun caster         |
-| Hand      | 0         | 0         | Grasp            | 2    | High    | None                |
-| Shield    | 0         | 8         | Barrier          | 6    | High    | None                |
-| Blood     | 0         | 0         | Revitalize       | 4    | Medium  | None                |
-| Crystal   | 0         | 0         | Imbue            | 3    | High    | None                |
-| Jar       | 0         | 0         | Contain          | 2    | High    | Break               |
-| Whip      | 6         | 0         | Lash             | 5    | Medium  | Whip backlash       |
-| Bone      | 3         | 0         | Strengthen       | 3    | High    | None                |
-| Flame     | 9         | 0         | Scorch           | 7    | Low     | Explosion           |
-| Light     | 0         | 0         | Illuminate       | 1    | High    | None                |
-| Wood      | 0         | 0         | Fortify          | 3    | High    | None                |
-| Thorn     | 5         | 0         | Entangle         | 4    | Medium  | Thorns grasp caster |
+### Example Spell
+
+Fade:
+• Solo cast: Renders the caster or an object invisible for [Int] rounds or until the caster attacks.
+• Effect: Targets can’t make save against the spell or add Avg[Int]
+• Cost: 2
+• Control: 4-6
+• Failure: _Your eyes fade, making you blind_ You gain the [Blind] condition for [Int] rounds.
+• Overcast: _Your body fades, making you invisible_ Your target and all their attack become invisible for [Int] rounds.
+• Mana Burn: If failed, the spell partially works, making shadows or silhouettes visible to keen observers.
+
+### Signature Spells
+
+Signature spells are the discovery by a magic user of a unique combination of words that only they can cast. These spells are usually more powerful, cost less mana and have unique effects but tend to be more difficult to control.
+
+Ex:
+
+1. Absorb, Blade, Crystal = Gilban's Prismatic Saber:
+
+2. Bind, Bolt, Bone = Otomund's Lich Grasp:
+
+3. Burn, Hand, Heal = Phoenix's Embrace:
+
+4. Jar, Light, Shield = Lantern of Hoping Light:
+
+5. Thorn, Wither, Wood = Nature's Wrath:
