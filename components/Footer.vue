@@ -1,7 +1,6 @@
 <template>
-  <div text="xl gray4" m-5 flex="~ gap3" justify-center>
-    <NuxtLink i-carbon-campsite to="/" />
-    <a i-carbon-logo-github href="https://github.com/antfu/vitesse-nuxt3" target="_blank" />
+  <div text="xl gray4" m-5 flex="~ gap3" justify-end md:justify-center>
+    <a i-ri:arrow-up-line href="#top" title="Back to the top" />
     <DarkToggle />
   </div>
 </template>
