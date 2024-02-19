@@ -1,0 +1,55 @@
+# The Questions
+
+- The World
+  - Basics
+  - Alternate Earth
+  - Not Earth at All
+- Physical and Historical Features
+  - General
+  - Climate and Geography
+  - Natural Resources
+  - World History
+  - Specific Country(s) History
+- Magic and Magicians
+  - Rules of Magic
+  - Wizards
+  - Magic and Technology
+  - Miscellaneous Magic Questions
+- Peoples and Customs
+  - General
+  - Customs
+  - Eating
+  - Greeting and Meeting
+  - Gestures
+  - Visits
+  - Language
+  - Ethics and Values
+  - Religion and the Gods
+  - Population
+- Social Organization
+  - General
+  - Government
+  - Politics
+  - Crime and the Legal System
+  - Foreign Relations
+  - Waging War
+  - Weapons
+- Commerce, Trade, and Public Life
+  - General
+  - Business and Industry
+  - Transportation and Communication
+  - Science and Technology
+  - Medicine
+  - Arts and Entertainment
+  - Architecture
+  - Urban Factors
+  - Rural Factors
+- Daily Life
+  - General
+  - Fashion and Dress
+  - Manners
+  - Diet
+  - Education
+  - Calendar
+
+[link](https://www.sfwa.org/2009/08/04/fantasy-worldbuilding-questions/)

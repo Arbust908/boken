@@ -4,17 +4,39 @@ _冒険_ means Adventurer
 
 ## Introduction
 
-A TTRPG, or Tabletop Role-Playing Game, is a type of game where players assume the roles of fictional characters and collaboratively create a story. These games are typically played around a table or online, using rulebooks, dice, and the imagination of the players.
+Bōken invites you on a journey where every choice carves the path of your legacy. In a realm where darkness claws at the edges of reality, and the air is laden with the whispers of forgotten gods, you are the beacon against the encroaching gloom. This is not just a game; it's a challenge to the brave, a call to the wise, and a beckoning to those who dare to dream. Bōken is your story, a tapestry of peril and triumph woven with the threads of your imagination.
 
 ### Why Bōken?
 
-Attribute-Based Progression: Character growth is directly tied to in-game actions, with attributes improving through use and failure, promoting a dynamic development path.
-Grit System: A unique health and endurance system that goes beyond simple hit points, adding a strategic layer to combat and survival.
-Dynamic Inventory: A realistic inventory system with slots and encumbrance that affects gameplay, encouraging strategic management of resources.
-Magic Through Words of Power: A flexible and creative magic system where spells are crafted from combining Words of Power, allowing for personalized and situation-specific spells.
-Risk and Reward Mechanics: The game emphasizes strategic risk-taking, where critical failures and successes have significant impacts on character progression and story development.
-Usage and Conditions: Items and gear have usage points and conditions, adding a layer of realism and tactical depth to equipment management.
-Narrative Integration: The rules encourage storytelling and role-playing, with mechanics that support narrative outcomes and character-driven stories.
+- Dice-size Attribute:
+
+  Character attributes are represented by dice, allowing for a dynamic and flexible system that reflects the character's abilities and growth.
+
+- You are your Inventory:
+
+  A slot-based inventory system that changes what you can do and how. Also counting as your life points.
+
+- Grit System:
+
+  A unique buffer system that represents the character's ability to shrug off damage and keep fighting. Also used to empower spells and abilities.
+
+- Words of Power:
+
+  A flexible and creative magic system where spells are crafted from combining Words, allowing for personalized and situation-specific spells.
+
+- Usage and Conditions:
+
+<!-- Items and gear have usage points and conditions, adding a layer of realism and tactical depth to equipment management.
+
+Dice-size Attribute: Character attributes are not just numbers but dice that grow as you do, embodying your strengths, your learning, and your evolution.
+
+You are your Inventory: Your gear does more than define you—it's your lifeline, your toolkit, and, in dire moments, your survival.
+
+Grit System: Not just a measure of endurance but a testament to your resilience, allowing you to push beyond limits and bend fate to your will.
+
+Words of Power: Magic here is not just cast but crafted, a domain where creativity and knowledge blend to forge spells of immense power and utility.
+
+Usage and Conditions: Every item in your possession tells a story, marked by battles fought and challenges overcome, adding depth to every choice. -->
 
 ### The World of Bōken
 
@@ -26,9 +48,17 @@ to despair. For them, every day is a struggle to survive, and every victory a tr
 seek to consume them. Welcome to the world of dark fantasy, where the lines between good and evil are blurred, and
 the only certainty is that the darkness will always seek to swallow the light.
 
+> This is the default setting for Bōken, but the system is designed to be adaptable to any setting or genre.
+> The rules and mechanics are designed for a dark world, low fantasy, and high risk. The world is a dangerous place, and the players will need to be smart, resourceful, and lucky to survive.
+> Still a creative GM can tweak some of the numbers and rules to change the theme and tone of the game.
+
+<!-- A land shrouded in shadow, where the remnants of a once bright world struggle against the tide of darkness. Here, ancient evils stir in the deep woods, and spirits haunt the ruins of forgotten realms. It's a world where the line between heroism and survival is thin, and legends are born from the deeds of those who dare to challenge the darkness. Welcome to a place where every victory is etched with the scars of sacrifice, and the light of hope is a precious flame guarded by the few against the many.
+
+Bōken's core is adaptability, designed to thrive in the darkest corners of fantasy or the brightest peaks of adventure. It's a call to arms for those who seek to forge their own path, to challenge the darkness with steel and spell. -->
+
 ## Gear and prices
 
-> ToDo: Add a table with gear and prices
+<!-- ToDo: Add a table with gear and prices -->
 
 ## Making an Adventurer
 
@@ -38,17 +68,17 @@ The world is unfair and cruel. The wilderness is hazardous, and the cities are a
 
 _Your attributes describe your adventure._
 
-**STR:** Physical prowess and power
+**Strength** [STR]: The might of your arms and the force of your resolve.
 
-**DEX:** Nimbleness and finesse
+**Dexterity** [DEX]: The grace of your movements and the precision of your actions.
 
-**CON:** Toughness and resilience
+**Constitution** [CON]: Your endurance, your fortitude—the wellspring of your vitality.
 
-**INT:** Knowledge and deduction
+**Intelligence** [INT]: The depth of your knowledge and the acuity of your mind.
 
-**WIL:** Intuition and sense
+**Wisdom** [WIS]: The strength of your spirit and the clarity of your intuition.
 
-**CHA:** Presence and force of will
+**Charisma** [CHA]: The force of your presence and the power of your words.
 
 When creating your adventurer you have 4d4s, and 2d6s to allocate in between your six attributes.
 
@@ -68,7 +98,7 @@ Your wealth is determined by your background and is gaged via Usage Dice.
 
 ### Backgrounds
 
-> ToDo: Add a table with backgrounds
+<!-- ToDo: Add a table with backgrounds -->
 
 ## Starting equipment
 
@@ -78,108 +108,117 @@ You start your adventure with Torches, Rations, and whatever your Background giv
 
 You can give your adventure its details but I’m if you need inspiration or preference to leave the details to luck you can use the table below.
 
-> ToDo: Add a table with details
+<!-- ToDo: Add a table with details -->
 
 ## Inventory
 
 ### **Inventory slots**
 
-El inventario se maneja con _slots_, donde los objetos ocupan uno y si son mas grandes pueden ocupar mas de uno. Los items equipados tiene slots especiales.
+The inventory is managed with _slots_, where the objects occupy one and if they are larger they can occupy more than one. Equipped items have special slots.
 
 ### Hands
 
-Lo que uno tiene en sus manos o al alcance de ellas.
+What one has in one's hands or within their reach.
 
 ### Body
 
-Lo que llevas en tu cuerpo, colgado o puesto.
+What you carry on your body, hanging or wearing.
 
 ### Bag
 
-Lo que esta en lugares mas complicados de alcanzar en combate. [Estos se pueden expandir]
+Which is in places that are more difficult to reach in combat.
 
 ### **Encumbrance**
 
-Cuando llevas mas de los _slots_ que podes, no podes correr y tus tiradas tienen DIS
+When you have more than the _slots_ you can, you cannot run and your rolls have [DIS]
 
 ### **Conditions**
 
-Cuando recibes daño o algún efecto negativo estos ocupan _slots._ Las condiciones dicen como se pueden remover. Un aventurero puede tener múltiple copias de una condición.
+When you receive damage or some negative effect they occupy _slots_. The conditions say how they can be removed. An adventurer can have multiple copies of a condition.
 
 ### **Banking**
 
-Cuando estas en una ciudad segura podes encontrar establecimientos para depositar Dinero y/o objetos que quieras guardar o no perder.
-Dependiendo del establecimiento y lo que deposites el costo puede ser fijo o un porcentaje.
+When you are in a safe city you can find establishments to deposit money and/or objects that you want to keep or not lose.
+Depending on the establishment and what you deposit, the cost may be fixed or a percentage.
 
 ### **Usage**
 
-La mayoría de los ítems tienen tres puntos de uso. Cuando los tres se marcan el ítem se rompe o se consume. Los ítems rotos se pueden reparar.
+Most items have three points of use. When all three are marked the item is broken or consumed. Broken items can be repaired.
 
-#### **Armas, Armaduras y Municiones**
+#### **Weapons, Armor and Ammunition**
 
-Después de cada combate donde se usó, tiras un de 6. Con 5/6 se marca un punto.
+After each combat where it was used, you roll a `d6`. On a 5 or 6 you mark a dot.
 
-#### **Linternas y Antorchas**
+#### **Flashlights and Torches**
 
-Marcas un punto cada 6 turnos.
+You score a point every 6 turns.
 
-#### **Raciones y Líquidos**
+#### **Rations and Liquids**
 
-Marcas cada vez que lo usas.
+Marks every time you use it.
 
-Otros ítems tendrán sus marcas y reglas.
+Other items will have their marks and rules.
 
 ## How to play
 
-_Para nosotros, los TTRPG son conversaciones entre el GM y los jugadores, en las que el GM presenta una situación y los jugadores responden con sus personajes. El GM luego narra las consecuencias que llevan a la próxima situación, y así se avanza en la historia._
+_For us, TTRPGs are conversations between the GM and the players, in which the GM presents a situation and the players respond with their characters. The GM then narrates the consequences that lead to the next situation, and thus the story advances._
 
 ### Role Play
 
-Como jugadores asimismo el Rol de nuestros personajes, reaccionando y actuando como tu personaje lo haría. Podes narrar lo que hace tu personaje o hablar como si fueras tu personaje.
+As players we also play the role of our characters, reacting and acting as your character would. You can narrate what your character does or speak as if you were your character.
 
 Best Practices
 
-- Hace preguntas. Toma notas. Dibuja mapas.
-- Trabaja en equipo. Planeen. Hagan aliados.
-- Los dados son un riesgo. Si tenes un plan podes evitar tiradas.
-- Intenta ganar. Disfruta fallar. Récorda fallar.
-- Pelea sucio. Rendite. Corre y si la muerte se acerca, hace la épica!
+- Ask away. Jot things down. Sketch out maps.
+- Team up. Make plans. Ally up.
+- Dice are a gamble. Got a plan? Dodge those rolls.
+- Aim to win. Love the fails. Embrace the flops.
+- Fight dirty.
 
 ### Saves
 
-Cuando tu personaje quiere hacer algo con un resultado riesgoso o incierto, Tiras una salvación del atributo relacionado con la actividad. _(Roll under o roll above)_
+When your character wants to do something with a risky or uncertain outcome, you roll a save from the attribute related to the activity. _(Roll under o roll above)_
 
-**Opposed Saves:** cuando competís contra otra criatura las dos tiran salvaciones y se comparan.
+**Opposed Saves:** When competing against another creature both roll saves and compare each other.
 
-**Advantage**: Cuando una situación se gire a tu favor tiras dos dados y te quedas con el mejor.
+**Advantage** [Adv]: When a situation turns in your favor, you roll two dice and keep the best one.
 
-**Disadvantage**: Cuando una situación se gire en tu contra tiras dos dados y te quedas con el peor.
+**Disadvantage** [Dis]: When a situation turns against you, you roll two dice and take the worst one.
 
-### Combate
+### Combat
 
-_El combate nunca es deseable y debería evitarse, aún así no siempre se puede._
+_Combat is never desirable and should be avoided, yet it is not always possible._
 
-Si se logra encontrar un enemigo desprevenido, el enemigo está sorprendido. Sino todos los que entran en combate tiran una salvación de WIS y se organizan los turnos.
+If you manage to find an unsuspecting enemy, the enemy is surprised. Otherwise, everyone who enters combat rolls a WIS save and the turns are organized.
 
-Cada turno los Personajes pueden moverse y tomar una acción. Una acción puede ser negociar, atacar, escapar o probar una gambeta.
+Each turn the Characters can move and take an action. An action can be negotiating, attacking, escaping or trying a trick.
 
-(Algo con estrategia y cambiar orden)
+(Something with strategy and changing order)
 
-**Ataques** en combate los personajes tiran el dado de si arma. Si el dado sale 1 el ataque falla, sino el dado indica el daño. Este se ve reducido por armadura (si tiene). El resto reduce [Grit].
+**Attacks** In combat the characters roll the dice for their weapon. If the die rolls 1 the attack fails, otherwise the die indicates the damage. This is reduced by armor (if you have it). The rest reduce [Grit].
 
-#### Heridas, Condiciones y Muerte
+#### Injuries, Conditions and Death
 
-### [GRIT]
+When you lose all your [Grit] you receive a wound card for each damage. If you cannot receive any more wounds, your character dies.
 
-[Grit] representa la habilidad de un personaje de resistir golpes. Una vez que perdes todo tu [Grit] recibis una carta de herix por cada daño. Si no podes recivir mas heridas, tu personaje muere.
+##### Conditions
+
+- **Blind**: You cannot see. You have [Dis] on all your actions.
+- **Bleeding**: You roll a [CON] save at the end of each turn. If you fail you receive a wound.
+- **Winded**: During your turn you can move or attack, not both.
+- **Stunned**: You lose your next turn.
+
+### Grit
+
+[Grit] represents a character's ability to resist hits. Once you lose all your [Grit] you receive a wound card for each damage. If you cannot receive any more wounds, your character dies.
 
 ### Rest and Healing
 
-Hay tres tipos de descansos.
+There are three types of breaks.
 
-- Corto: Recuperas 1 [Grit]
-- Largo: Recuperas 1d6+1 [Grit] por una racion.
-- Completo: Recuperas todo tu [Grit] y podes tirar progresso de Attributo.
+- Short: You recover 1 [Grit]
+- Long: You recover 1d6+1 [Grit] for one ration.
+- Complete: You recover all your [Grit] _and can roll Attribute progress_.
 
 ## Magic
 
@@ -187,13 +226,13 @@ Magic is a rare occurrence in the world, does who can use it are regarded as pow
 
 To be able to cast a spell you need to know at least one word of power, you should also have the mana points to cast it and then roll an [INT] save to see if you can control the spell. Control works as a range:
 
-- If you roll under the control number/s you misscast the spell and you take a mana burn.
+- If you roll under the control number/s you miscast the spell and you take a mana burn.
 - If you roll the control number/s you cast the spell as intended.
 - If you roll over the control number/s you overcast the spell may have extra effects.
 
 ### Words of Power
 
-Words of power are writen in the ancient language of the gods. They are the building blocks of magic. The more words you know the more powerful spells you can cast.
+Words of power are written in the ancient language of the gods. They are the building blocks of magic. The more words you know the more powerful spells you can cast.
 
 Here is a list of words of power:
 
@@ -307,3 +346,10 @@ Ex:
 4. Jar, Light, Shield = Lantern of Hoping Light:
 
 5. Thorn, Wither, Wood = Nature's Wrath:
+
+## Glossary
+
+- **Save:** A roll to determine the outcome of an action.
+- **Avg[Attribute]:** The average of the attribute. ex: Int = d6, Avg[Int] = 3.
+- **Max[Attribute]:** The maximum of the attribute. ex: Int = d6, Max[Int] = 6.
+-
