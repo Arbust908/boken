@@ -40,13 +40,7 @@ Usage and Conditions: Every item in your possession tells a story, marked by bat
 
 ### The World of Bōken
 
-The air is thick with the stench of decay, as the sun sets over a world plunged into darkness. The forests are filled
-with malevolent spirits, seeking to prey upon the living. In this world, might is right, and only the strongest
-survive. The people who call this place home are hardened by years of violence and strife. They know that the shadows
-hold secrets, and that the night brings with it unspeakable horrors. Yet despite the danger, they refuse to give in
-to despair. For them, every day is a struggle to survive, and every victory a triumph over the forces of evil that
-seek to consume them. Welcome to the world of dark fantasy, where the lines between good and evil are blurred, and
-the only certainty is that the darkness will always seek to swallow the light.
+A land shrouded in shadow, where the remnants of a once bright world struggle against the tide of darkness. Here, ancient evils stir in the deep woods, and spirits haunt the ruins of forgotten realms. It's a world where the line between heroism and survival is thin, and legends are born from the deeds of those who dare to challenge the darkness. Welcome to a place where every victory is etched with the scars of sacrifice, and the light of hope is a precious flame guarded by the few against the many.
 
 > This is the default setting for Bōken, but the system is designed to be adaptable to any setting or genre.
 > The rules and mechanics are designed for a dark world, low fantasy, and high risk. The world is a dangerous place, and the players will need to be smart, resourceful, and lucky to survive.
@@ -98,7 +92,27 @@ Your wealth is determined by your background and is gaged via Usage Dice.
 
 ### Backgrounds
 
-<!-- ToDo: Add a table with backgrounds -->
+| 2d10 | Background  | Starting Equipment                                 | Wealth |
+| ---- | ----------- | -------------------------------------------------- | ------ |
+| 02   | Hunter      | tent, bearskin, bear trap                          | 0      |
+| 03   | Blacksmith  | hammer, bellows, tongs                             | 1d6    |
+| 13   | Vagabond    | scales, strongbox, bag of spice                    | 1d6    |
+| 04   | Cultist     | dagger, ritual robes, amulet                       | 1d6    |
+| 05   | Pilgrim     | book, quill/ink, staff, letter of passage          | 1d6    |
+| 06   | Actor       | wig, makeup, costume, scepter, donkey head, motley | 1d6    |
+| 07   | Herbalist   | acid, mortar, herbs, sickle                        | 1d6    |
+| 08   | Burglar     | mask, caltrops, lockpicks, grappling hook, rope    | 1d6    |
+| 09   | Butcher     | cleaver, meat hook, frying pan, oli                | 1d6    |
+| 10   | Carpenter   | hammer, saw, box of nails                          | 1d6    |
+| 11   | Courier     | oilskin bag, local map, lantern                    | 1d6    |
+| 12   | Fisherman   | spear, net, fishing tackle                         | 1d6    |
+| 14   | Miner       | pickaxe, lantern, pet canary                       | 1d6    |
+| 15   | Shepherd    | crook, instrument, sling                           | 1d6    |
+| 16   | Squire      | torch, armor polish, trumpet                       | 1d6    |
+| 17   | Woodcutter  | axe, firewood, 50’ rope                            | 1d6    |
+| 18   | Gravedigger | shovel, pickaxe, bucket , crowbar                  | 1d6    |
+| 19   | Pit Fighter | net, whip, wine jug                                | 1d6    |
+| 20   | Knight      | lady’s favor, banner, signet ring                  | 1d12   |
 
 ## Starting equipment
 
