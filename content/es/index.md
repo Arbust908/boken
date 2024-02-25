@@ -1,6 +1,6 @@
 # Bōken
 
-_冒険_ means Adventurer
+> _冒険_ means Adventurer
 
 ## Introduction
 
@@ -10,21 +10,21 @@ Bōken invites you on a journey where every choice carves the path of your legac
 
 - Dice-size Attribute:
 
-  Character attributes are represented by dice, allowing for a dynamic and flexible system that reflects the character's abilities and growth.
+  _Character attributes are represented by dice, allowing for a dynamic and flexible system that reflects the character's abilities and growth._
 
 - You are your Inventory:
 
-  A slot-based inventory system that changes what you can do and how. Also counting as your life points.
+  _A slot-based inventory system that changes what you can do and how. Also counting as your life points._
 
 - Grit System:
 
-  A unique buffer system that represents the character's ability to shrug off damage and keep fighting. Also used to empower spells and abilities.
+  _A unique buffer system that represents the character's ability to shrug off damage and keep fighting. Also used to empower spells and abilities._
 
 - Words of Power:
 
-  A flexible and creative magic system where spells are crafted from combining Words, allowing for personalized and situation-specific spells.
+  _A flexible and creative magic system where spells are crafted from combining Words, allowing for personalized and situation-specific spells._
 
-- Usage and Conditions:
+<!-- - Usage and Conditions: -->
 
 <!-- Items and gear have usage points and conditions, adding a layer of realism and tactical depth to equipment management.
 
@@ -92,27 +92,24 @@ Your wealth is determined by your background and is gaged via Usage Dice.
 
 ### Backgrounds
 
-| 2d10 | Background  | Starting Equipment                                 | Wealth |
-| ---- | ----------- | -------------------------------------------------- | ------ |
-| 02   | Hunter      | tent, bearskin, bear trap                          | 0      |
-| 03   | Blacksmith  | hammer, bellows, tongs                             | 1d6    |
-| 13   | Vagabond    | scales, strongbox, bag of spice                    | 1d6    |
-| 04   | Cultist     | dagger, ritual robes, amulet                       | 1d6    |
-| 05   | Pilgrim     | book, quill/ink, staff, letter of passage          | 1d6    |
-| 06   | Actor       | wig, makeup, costume, scepter, donkey head, motley | 1d6    |
-| 07   | Herbalist   | acid, mortar, herbs, sickle                        | 1d6    |
-| 08   | Burglar     | mask, caltrops, lockpicks, grappling hook, rope    | 1d6    |
-| 09   | Butcher     | cleaver, meat hook, frying pan, oli                | 1d6    |
-| 10   | Carpenter   | hammer, saw, box of nails                          | 1d6    |
-| 11   | Courier     | oilskin bag, local map, lantern                    | 1d6    |
-| 12   | Fisherman   | spear, net, fishing tackle                         | 1d6    |
-| 14   | Miner       | pickaxe, lantern, pet canary                       | 1d6    |
-| 15   | Shepherd    | crook, instrument, sling                           | 1d6    |
-| 16   | Squire      | torch, armor polish, trumpet                       | 1d6    |
-| 17   | Woodcutter  | axe, firewood, 50’ rope                            | 1d6    |
-| 18   | Gravedigger | shovel, pickaxe, bucket , crowbar                  | 1d6    |
-| 19   | Pit Fighter | net, whip, wine jug                                | 1d6    |
-| 20   | Knight      | lady’s favor, banner, signet ring                  | 1d12   |
+| 3d6 | Background  | Starting Equipment                                 | Wealth |
+| --- | ----------- | -------------------------------------------------- | ------ |
+| 01  | Framer      | hoe, sickle, seeds, plow                           | d6     |
+| 03  | Blacksmith  | hammer, bellows, tongs                             | d8     |
+| 09  | Butcher     | cleaver, meat hook, frying pan, oil                | d6     |
+| 10  | Carpenter   | hammer, saw, box of nails                          | d6     |
+| 07  | Herbalist   | acid, pet rat, herbs, sickle                       | d6     |
+| 14  | Miner       | pickaxe, lantern, pet canary                       | d6     |
+| 17  | Woodcutter  | axe, firewood, 50’ rope                            | d6     |
+| 18  | Gravedigger | shovel, pickaxe, bucket , crowbar                  | d4     |
+| 02  | Hunter      | tent, bearskin, bear trap                          | d8     |
+| 05  | Pilgrim     | book, quill/ink, staff, letter of passage          | -      |
+| 20  | Knight      | lady’s favor, banner, signet ring                  | d10    |
+| 16  | Squire      | torch, armor polish, trumpet                       | d6     |
+| 08  | Burglar     | mask, caltrops, lockpicks, grappling hook, rope    | d6     |
+| 06  | Actor       | wig, makeup, costume, scepter, donkey head, motley | d4     |
+| 04  | Cultist     | dagger, ritual robes, amulet                       | d4     |
+| 13  | Vagabond    | scales, strongbox, bag of spice                    | -      |
 
 ## Starting equipment
 
