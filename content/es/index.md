@@ -1,12 +1,12 @@
 # Bōken
 
-> _冒険_ means Adventurer
+> _冒険_ significa "aventurero"
 
-## Introduction
+## Introducción
 
-Bōken invites you on a journey where every choice carves the path of your legacy. In a realm where darkness claws at the edges of reality, and the air is laden with the whispers of forgotten gods, you are the beacon against the encroaching gloom. This is not just a game; it's a challenge to the brave, a call to the wise, and a beckoning to those who dare to dream. Bōken is your story, a tapestry of peril and triumph woven with the threads of your imagination.
+Bōken te invita a un viaje donde cada elección talla el camino de tu legado. En un reino donde la oscuridad araña los bordes de la realidad y el aire está cargado con los susurros de dioses olvidados, tú eres el faro contra la penumbra que se acerca. Esto no es solo un juego; es un desafío para los valientes, un llamado a los sabios y una invitación a aquellos que se atreven a soñar. Bōken es tu historia, un tapiz de peligro y triunfo tejido con los hilos de tu imaginación.
 
-### Why Bōken?
+### ¿Por qué Bōken?
 
 - Dice-size Attribute:
 
@@ -52,24 +52,6 @@ Bōken's core is adaptability, designed to thrive in the darkest corners of fant
 
 ## Gear and prices
 
-| Item           | Cost | Slots | Usage | Conditions                             |
-| -------------- | ---- | ----- | ----- | -------------------------------------- |
-| Torch          | 1    | 1     | 6     | Light a small area                     |
-| Rations        | 1    | 1     | 3     | In rest, nurishes                      |
-| Rope           | 1    | 1     | -     | -                                      |
-| Grappling hook | 1    | 1     | -     | -                                      |
-| Lantern        | 2    | 1     | 6     | Light a large area                     |
-| Oil            | 1    | 1     | 3     | Lubricates                             |
-| Tent           | 2    | 2     | -     | Mitigates climate when resting outside |
-| Blanket        | 1    | 1     | -     | -                                      |
-| Bedroll        | 1    | 1     | -     | -                                      |
-| Waterskin      | 1    | 1     | -     | Hydrates                               |
-| Sack           | 1    | 1     | -     | -                                      |
-| Backpack       | 2    | 2     | -     | -                                      |
-| Map            | 1    | 1     | -     | -                                      |
-| Compass        | 1    | 1     | -     | -                                      |
-| Whistle        | 1    | 1     | -     | -                                      |
-
 ## Making an Adventurer
 
 The world is unfair and cruel. The wilderness is hazardous, and the cities are a bit safer. Adventurers brave the land looking to make their name by facing the world's evils.
@@ -92,11 +74,11 @@ _Your attributes describe your adventure._
 
 When creating your adventurer you have 4d4s, and 2d6s to allocate in between your six attributes.
 
-> Cost per dice 1d4 1pt, 1d6 2pts, 1d8 4pts, 1d10 8pts, 1d12 16pts
+<!-- > Cost per dice 1d4 1pt, 1d6 2pts, 1d8 4pts, 1d10 8pts, 1d12 16pts -->
 
-#### Improvement
+<!-- #### Improvement
 
-> Improvement can be made on attributes during play. When a save is critically failed you mark that attribute. The next time you rest you can roll that attribute. On a 1 mark a pip. Once you get to the maximum number of the attribute, the attribute grows a size. Ex: if your attribute is a d4 you’ll need 4 pips to upgrade from a d4 to a d6. Then you’ll need 6 pip to upgrade to a d8. And so on.
+> Improvement can be made on attributes during play. When a save is critically failed you mark that attribute. The next time you rest you can roll that attribute. On a 1 mark a pip. Once you get to the maximum number of the attribute, the attribute grows a size. Ex: if your attribute is a d4 you’ll need 4 pips to upgrade from a d4 to a d6. Then you’ll need 6 pip to upgrade to a d8. And so on. -->
 
 ### Grit, background & wealth
 
@@ -135,16 +117,7 @@ You start your adventure with Torches, Rations, and whatever your Background giv
 
 You can give your adventure its details but I’m if you need inspiration or preference to leave the details to luck you can use the table below.
 
-| d8  | Physique | Face   | Skin     | Hair   |
-| --- | -------- | ------ | -------- | ------ |
-| 1   | Tall     | Scar   | Pale     | Bald   |
-| 2   | Short    | Pock   | Dark     | Red    |
-| 3   | Lean     | Hairy  | Fair     | Grey   |
-| 4   | Stout    | Thin   | Tanned   | Black  |
-| 5   | Muscular | Wide   | Ruddy    | Brown  |
-| 6   | Slender  | Round  | Olive    | White  |
-| 7   | Fat      | Sharp  | Freckled | Blonde |
-| 8   | Thin     | Square | Dark     | Grey   |
+<!-- ToDo: Add a table with details -->
 
 ## Inventory
 
@@ -259,133 +232,132 @@ There are three types of breaks.
 ## Magic
 
 Magic is a rare occurrence in the world, does who can use it are regarded as powerful beings to be respected, feared or even worshipped. The secrets of magic is tightly guarded and almost forgotten and buried deep into the wilderness. The few who know the words of power can channel their mana to cast spells. Masters can weave multiple words to create powerful effects.
-
 To be able to cast a spell you need to know at least one word of power, you should also have the mana points to cast it and then roll an [INT] save to see if you can control the spell. Control works as a range:
 
-- If you roll under the control number/s you miscast the spell and you take a mana burn.
-- If you roll the control number/s you cast the spell as intended.
-- If you roll over the control number/s you overcast the spell may have extra effects.
+- Si sacas menos que el número de control/es, fallas el hechizo y sufres una quemadura de maná.
+- Si sacas el número de control/es, lanzas el hechizo como se pretendía.
+- Si sacas más que el número de control/es, sobrecargas el hechizo y puede tener efectos adicionales.
 
-### Words of Power
+### Palabras de Poder
 
-Words of power are written in the ancient language of the gods. They are the building blocks of magic. The more words you know the more powerful spells you can cast.
+Las palabras de poder están escritas en el antiguo lenguaje de los dioses. Son los bloques de construcción de la magia. Cuantas más palabras conozcas, más poderosos serán los hechizos que puedes lanzar.
 
-Here is a list of words of power:
+Aquí tienes una lista de palabras de poder:
 
-- Absorb
-- Armor
-- Arrow
-- Bind
-- Blade
-- Blood
-- Blossom
-- Bolt
-- Bone
-- Burn
-- Crystal
-- Duplicate
-- Echo
-- Fade
-- Flame
-- Hand
-- Heal
-- Jar
-- Light
-- Shield
-- Thorn
-- Whip
-- Wither
-- Wood
+- Absorber
+- Armadura
+- Flecha
+- Atar
+- Hoja
+- Sangre
+- Flor
+- Rayo
+- Hueso
+- Quemar
+- Cristal
+- Duplicar
+- Eco
+- Desvanecer
+- Llama
+- Mano
+- Sanar
+- Tarro
+- Luz
+- Escudo
+- Espina
+- Látigo
+- Marchitar
+- Madera
 
-<!-- The concept of Words of Power offers a canvas for creativity and depth in spellcasting. Here’s a simple yet dynamic framework:
+<!-- El concepto de las Palabras de Poder ofrece un lienzo para la creatividad y la profundidad en el lanzamiento de hechizos. Aquí tienes un marco simple pero dinámico:
 
-Discovery and Learning: Magic users begin with a few basic Words of Power and can discover more through exploration, study, or interaction with mystical entities. Each word holds a specific element or concept, such as Fire, Water, Mind, Time, etc.
-Combination Spells: Players create spells by combining Words of Power. The order and selection of words affect the spell's outcome, allowing for a vast array of effects. For example, combining "Fire" and "Arrow" might create a flaming projectile, while "Silence" and "Mind" could yield a spell that blocks magical detection.
-Power Scaling: The strength of a spell is determined by the magic user's proficiency and the number of words combined. More words can create more powerful effects but also increase the difficulty and the risk of failure.
-Mana and Exhaustion: Spellcasting consumes mana or causes exhaustion. More complex spells require more resources, adding a strategic layer to magic use.
-Environmental Effects: The environment can influence magic, making some spells stronger or weaker. This encourages players to engage with their surroundings and plan their spellcasting strategically.
-Rituals and Artifacts: Some spells or effects might require rituals, specific conditions, or artifacts. This can drive adventure and exploration as players seek out rare components or seek to fulfill conditions for powerful magic.
+Descubrimiento y Aprendizaje: Los usuarios de la magia comienzan con algunas Palabras de Poder básicas y pueden descubrir más a través de la exploración, el estudio o la interacción con entidades místicas. Cada palabra representa un elemento o concepto específico, como Fuego, Agua, Mente, Tiempo, etc.
+Hechizos de Combinación: Los jugadores crean hechizos combinando Palabras de Poder. El orden y la selección de las palabras afectan el resultado del hechizo, lo que permite una amplia variedad de efectos. Por ejemplo, combinar "Fuego" y "Flecha" podría crear un proyectil llameante, mientras que "Silencio" y "Mente" podrían dar lugar a un hechizo que bloquea la detección mágica.
+Escalado de Poder: La fuerza de un hechizo se determina por la habilidad del usuario de la magia y el número de palabras combinadas. Cuantas más palabras, más poderosos serán los efectos, pero también aumentará la dificultad y el riesgo de fallo.
+Maná y Agotamiento: El lanzamiento de hechizos consume maná o causa agotamiento. Los hechizos más complejos requieren más recursos, lo que añade una capa estratégica al uso de la magia.
+Efectos Ambientales: El entorno puede influir en la magia, haciendo que algunos hechizos sean más fuertes o más débiles. Esto anima a los jugadores a interactuar con su entorno y planificar estratégicamente el lanzamiento de hechizos.
+Rituales y Artefactos: Algunos hechizos o efectos pueden requerir rituales, condiciones específicas o artefactos. Esto puede impulsar la aventura y la exploración, ya que los jugadores buscan componentes raros o intentan cumplir condiciones para la magia poderosa.
 
-Mana System
-Mana Reserve: Each magic user has a Mana Reserve that reflects their capacity to wield magic. This reserve is a numerical value that depletes as spells are cast and replenishes over time or through specific actions.
-Absorption Rate: This rate determines how quickly a magic user can replenish their Mana Reserve from their surroundings or through meditation. Factors like environment, magical artifacts, or ley lines could enhance absorption.
-Mana Control: Reflects the skill level of the magic user in handling complex spells without losing control. Higher Mana Control allows for combining more Words of Power effectively, casting spells with greater precision, and reducing the risk of spell failure or backlash.
-Integrating Grit
-Desperate Casts: Allow magic users to tap into their Grit as a last resort to cast spells when Mana is low. This represents drawing on their physical reserves and determination to fuel their magic, emphasizing the dangerous nature of such acts.
-Empowering Spells: Grit can be voluntarily expended to enhance the potency of spells, increasing effects like damage, duration, or area of effect. This should be a tactical choice, weighing the immediate benefits of a powerful spell against the potential physical repercussions.
-Grit Recovery: Introduce rituals or magical potions that recover Grit but might require rare components or specific conditions, making them valuable but not easily accessible.
-Words of Power Mechanism
-Let's incorporate your words into a system that encourages creativity and tactical thinking:
+Sistema de Maná
+Reserva de Maná: Cada usuario de magia tiene una Reserva de Maná que refleja su capacidad para utilizar la magia. Esta reserva es un valor numérico que se agota a medida que se lanzan hechizos y se repone con el tiempo o a través de acciones específicas.
+Tasa de Absorción: Esta tasa determina qué tan rápido un usuario de magia puede reponer su Reserva de Maná desde su entorno o a través de la meditación. Factores como el entorno, los artefactos mágicos o las líneas ley podrían mejorar la absorción.
+Control de Maná: Refleja el nivel de habilidad del usuario de la magia para manejar hechizos complejos sin perder el control. Un mayor Control de Maná permite combinar más Palabras de Poder de manera efectiva, lanzar hechizos con mayor precisión y reducir el riesgo de fallo o retroceso del hechizo.
+Integración de Determinación
+Lanzamientos Desesperados: Permiten a los usuarios de magia utilizar su Determinación como último recurso para lanzar hechizos cuando el Maná es bajo. Esto representa aprovechar sus reservas físicas y su determinación para alimentar su magia, enfatizando la naturaleza peligrosa de tales actos.
+Potenciación de Hechizos: La Determinación puede gastarse voluntariamente para mejorar la potencia de los hechizos, aumentando efectos como el daño, la duración o el área de efecto. Esta debería ser una elección táctica, sopesando los beneficios inmediatos de un hechizo poderoso frente a las posibles repercusiones físicas.
+Recuperación de Determinación: Introduce rituales o pociones mágicas que recuperan la Determinación pero pueden requerir componentes raros o condiciones específicas, lo que las hace valiosas pero no fácilmente accesibles.
+Mecanismo de Palabras de Poder
+Incorporemos tus palabras en un sistema que fomente la creatividad y el pensamiento táctico:
 
-Basic Combos: Start by defining basic combinations of words that result in straightforward spells. For example:
+Combos Básicos: Comienza definiendo combinaciones básicas de palabras que den como resultado hechizos sencillos. Por ejemplo:
 
-Advanced Combos: Introduce the concept of advanced spells that require a higher level of Mana Control and possibly more words. For example:
+Combos Avanzados: Introduce el concepto de hechizos avanzados que requieren un mayor nivel de Control de Maná y posiblemente más palabras. Por ejemplo:
 
-Duplicate + Blade + Thorn = Creates multiple thorned blades that orbit the caster, attacking nearby enemies.
-Absorb + Crystal + Light = A spell that absorbs light to fill a crystal, which can then be used as a source of illumination or to blind enemies.
+Duplicar + Hoja + Espina = Crea múltiples hojas con espinas que orbitan alrededor del lanzador, atacando a los enemigos cercanos.
+Absorber + Cristal + Luz = Un hechizo que absorbe la luz para llenar un cristal, que luego se puede usar como fuente de iluminación o para cegar a los enemigos.
 
-Environmental and Situational Modifiers: Spells can have different effects based on the environment or the situation. For instance, a Blossom spell could have healing properties in a forest but become toxic in a swamp.
+Modificadores Ambientales y Situacionales: Los hechizos pueden tener diferentes efectos según el entorno o la situación. Por ejemplo, un hechizo de Flor podría tener propiedades curativas en un bosque pero volverse tóxico en un pantano.
 
-Ritual Spells: For powerful effects, require a combination of specific Words of Power, Mana, Grit, and environmental conditions to perform a ritual. This could involve creating protective wards, summoning creatures, or changing the weather.
+Hechizos de Rituales: Para efectos poderosos, se requiere una combinación de Palabras de Poder específicas, Maná, Determinación y condiciones ambientales para realizar un ritual. Esto podría implicar la creación de protecciones, la invocación de criaturas o el cambio del clima.
 
-Grit as a Catalyst: For spells that push beyond the caster's limits, Grit can act as a catalyst, increasing the spell's power but at a personal risk. For example, using Flame + Whip + Grit could create a devastating inferno whip that also burns the caster, reducing Grit but dealing massive damage.
+Determinación como Catalizador: Para hechizos que van más allá de los límites del lanzador, la Determinación puede actuar como un catalizador, aumentando el poder del hechizo pero con un riesgo personal. Por ejemplo, usar Llama + Látigo + Determinación podría crear un látigo de fuego devastador que también quema al lanzador, reduciendo la Determinación pero infligiendo un daño masivo.
 
-Attributes for Words of Power
-Offensive (Damage): The base damage a word can inflict. For example, "Burn" could have a higher base damage compared to "Bolt." This attribute is crucial for spells intended to harm or destroy.
+Atributos para Palabras de Poder
+Ofensivo (Daño): El daño base que una palabra puede infligir. Por ejemplo, "Quemar" podría tener un daño base más alto en comparación con "Rayo". Este atributo es crucial para los hechizos destinados a dañar o destruir.
 
-Defensive (Protection): The amount of damage or number of attacks a spell can absorb before dissipating. "Shield" might offer high defensive value, whereas "Armor" provides moderate, but longer-lasting, protection.
+Defensivo (Protección): La cantidad de daño o número de ataques que un hechizo puede absorber antes de disiparse. "Escudo" podría ofrecer un alto valor defensivo, mientras que "Armadura" proporciona protección moderada pero de mayor duración.
 
-Effect (Utility): Describes the range of non-damaging effects a word can produce, such as healing, buffing, debuffing, or altering the environment. "Heal" restores health, "Blossom" could encourage growth or healing over an area, and "Wither" might weaken enemies or structures.
+Efecto (Utilidad): Describe la gama de efectos no dañinos que una palabra puede producir, como curación, fortalecimiento, debilitamiento o alteración del entorno. "Sanar" restaura la salud, "Flor" podría fomentar el crecimiento o la curación en un área, y "Marchitar" podría debilitar a los enemigos o estructuras.
 
-Cost (Mana Consumption): Indicates how much Mana is required to cast the spell. More powerful words or combinations thereof could have a higher Mana cost, balancing their use in gameplay.
+Costo (Consumo de Maná): Indica cuánto Maná se requiere para lanzar el hechizo. Palabras más poderosas o combinaciones de palabras podrían tener un costo de Maná más alto, equilibrando su uso en el juego.
 
-Control (Precision): A measure of how easy or difficult it is to cast a spell without unintended consequences. This could be represented by a target number or range. Spells with high damage or powerful effects might have tighter control ranges, making them riskier to cast.
+Control (Precisión): Una medida de lo fácil o difícil que es lanzar un hechizo sin consecuencias no deseadas. Esto podría representarse mediante un número objetivo o rango. Los hechizos con mucho daño o efectos poderosos podrían tener rangos de control más ajustados, lo que los hace más arriesgados de lanzar.
 
-Mana Burn (Risk): A unique effect that triggers on a misspell or when Grit powers a spell. This could result in additional damage to the caster, a backlash effect, or a wild magic surge that produces unpredictable outcomes. Mana Burn adds an element of risk to using powerful spells or relying on Grit.
+Quemadura de Maná (Riesgo): Un efecto único que se activa en caso de un hechizo fallido o cuando la Determinación potencia un hechizo. Esto podría resultar en daño adicional para el lanzador, un efecto de retroceso o una oleada de magia salvaje que produce resultados impredecibles. La Quemadura de Maná añade un elemento de riesgo al usar hechizos poderosos o depender de la Determinación.
 
-Implementing Attributes in Gameplay
-Balancing Spells: The interaction between these attributes allows for a wide range of spells with varied strategic uses. For example, a low-cost, high-control spell like "Light" could be useful for exploration without risking Mana Burn, whereas a high-cost, low-control spell like "Flame + Whip" would be a powerful combat move with significant risk.
+Implementación de Atributos en el Juego
+Equilibrio de Hechizos: La interacción entre estos atributos permite una amplia gama de hechizos con diversos usos estratégicos. Por ejemplo, un hechizo de bajo costo y alto control como "Luz" podría ser útil para la exploración sin correr el riesgo de una Quemadura de Maná, mientras que un hechizo de alto costo y bajo control como "Llama + Látigo" sería un movimiento de combate poderoso pero con un riesgo significativo.
 
-Strategic Choices: Players must make strategic decisions about when to use certain spells based on their Mana reserves, the situation's demands, and the potential risks of Mana Burn. This adds depth to magic use in the game.
+Elecciones Estratégicas: Los jugadores deben tomar decisiones estratégicas sobre cuándo usar ciertos hechizos en función de sus reservas de Maná, las demandas de la situación y los riesgos potenciales de la Quemadura de Maná. Esto añade profundidad al uso de la magia en el juego.
 
-Spell Crafting: Players can craft spells by combining Words of Power, considering the cumulative attributes of the chosen words. A spell combining "Burn + Arrow" might have a moderate offensive rating and cost, with a specific control range to avoid Mana Burn.
+Creación de Hechizos: Los jugadores pueden crear hechizos combinando Palabras de Poder, teniendo en cuenta los atributos acumulativos de las palabras elegidas. Un hechizo que combine "Quemar + Flecha" podría tener una calificación y costo ofensivos moderados, con un rango de control específico para evitar la Quemadura de Maná.
 
-Critical Casts and Misspells: The Control attribute introduces a skill element to spellcasting, where players can aim for Critical Casts for enhanced effects or risk Misspells with negative consequences. This could be influenced by character abilities, magical items, or environmental factors.
+Lanzamientos Críticos y Errores: El atributo de Control introduce un elemento de habilidad en el lanzamiento de hechizos, donde los jugadores pueden apuntar a Lanzamientos Críticos para obtener efectos mejorados o correr el riesgo de Errores con consecuencias negativas. Esto podría verse influenciado por habilidades de los personajes, objetos mágicos o factores ambientales.
 
-Mana and Grit Management: Players must manage their Mana and Grit carefully, balancing the need for powerful spells with the risk of depleting these resources. Choosing when to use Grit to empower a spell adds a layer of tactical decision-making, especially in dire situations.
+Gestión de Maná y Determinación: Los jugadores deben administrar cuidadosamente su Maná y Determinación, equilibrando la necesidad de hechizos poderosos con el riesgo de agotar estos recursos. Elegir cuándo usar la Determinación para potenciar un hechizo agrega una capa de toma de decisiones tácticas, especialmente en situaciones desesperadas.
 
-This system encourages players to engage deeply with the magic mechanics, making spellcasting a dynamic and integral part of the Bōken experience. Players will need to think carefully about their choices, adapt to the outcomes of their spells, and explore the world to discover new Words of Power and combinations. -->
+Este sistema anima a los jugadores a involucrarse profundamente con los mecanismos de la magia, haciendo que el lanzamiento de hechizos sea una parte dinámica e integral de la experiencia de Bōken. Los jugadores deberán pensar cuidadosamente en sus elecciones, adaptarse a los resultados de sus hechizos y explorar el mundo para descubrir nuevas Palabras de Poder y combinaciones. -->
 
-### Example Spell
+### Ejemplo de Hechizo
 
-Fade:
-• Solo cast: Renders the caster or an object invisible for [Int] rounds or until the caster attacks.
-• Effect: Targets can’t make save against the spell or add Avg[Int]
-• Cost: 2
+Desvanecer:
+• Lanzamiento individual: Vuelve invisible al lanzador o a un objeto durante [Int] rondas o hasta que el lanzador ataque.
+• Efecto: Los objetivos no pueden hacer una salvación contra el hechizo ni agregar Avg[Int]
+• Costo: 2
 • Control: 4-6
-• Failure: _Your eyes fade, making you blind_ You gain the [Blind] condition for [Int] rounds.
-• Overcast: _Your body fades, making you invisible_ Your target and all their attack become invisible for [Int] rounds.
-• Mana Burn: If failed, the spell partially works, making shadows or silhouettes visible to keen observers.
+• Fallo: _Tus ojos se desvanecen, dejándote ciego_ Obtienes la condición [Cegado] durante [Int] rondas.
+• Sobrecarga: _Tu cuerpo se desvanece, volviéndote invisible_ Tu objetivo y todos sus ataques se vuelven invisibles durante [Int] rondas.
+• Quemadura de Maná: Si falla, el hechizo funciona parcialmente, haciendo que las sombras o siluetas sean visibles para observadores atentos.
 
-### Signature Spells
+### Hechizos de Firma
 
-Signature spells are the discovery by a magic user of a unique combination of words that only they can cast. These spells are usually more powerful, cost less mana and have unique effects but tend to be more difficult to control.
+Los hechizos de firma son el descubrimiento por parte de un usuario de magia de una combinación única de palabras que solo ellos pueden lanzar. Estos hechizos suelen ser más poderosos, cuestan menos maná y tienen efectos únicos, pero tienden a ser más difíciles de controlar.
 
-Ex:
+Ejemplos:
 
-1. Absorb, Blade, Crystal = Gilban's Prismatic Saber:
+1. Absorber, Hoja, Cristal = Sable Prismático de Gilban:
 
-2. Bind, Bolt, Bone = Otomund's Lich Grasp:
+2. Atar, Rayo, Hueso = Agarre Lich de Otomund:
 
-3. Burn, Hand, Heal = Phoenix's Embrace:
+3. Quemar, Mano, Sanar = Abrazo del Fénix:
 
-4. Jar, Light, Shield = Lantern of Hoping Light:
+4. Tarro, Luz, Escudo = Linterna de Luz Esperanzadora:
 
-5. Thorn, Wither, Wood = Nature's Wrath:
+5. Espina, Marchitar, Madera = Ira de la Naturaleza:
 
-## Glossary
+## Glosario
 
-- **Save:** A roll to determine the outcome of an action.
-- **Avg[Attribute]:** The average of the attribute. ex: Int = d6, Avg[Int] = 3.
-- **Max[Attribute]:** The maximum of the attribute. ex: Int = d6, Max[Int] = 6.
+- **Salvación:** Una tirada para determinar el resultado de una acción.
+- **Avg[Atributo]:** El promedio del atributo. Ejemplo: Int = d6, Avg[Int] = 3.
+- **Max[Atributo]:** El máximo del atributo. Ejemplo: Int = d6, Max[Int] = 6.
 -

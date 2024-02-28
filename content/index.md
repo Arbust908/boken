@@ -112,22 +112,23 @@ Your wealth is determined by your background and is gaged via Usage Dice.
 
 | 3d6 | Background  | Starting Equipment                                 | Wealth |
 | --- | ----------- | -------------------------------------------------- | ------ |
-| 01  | Framer      | hoe, sickle, seeds, plow                           | d6     |
-| 03  | Blacksmith  | hammer, bellows, tongs                             | d8     |
-| 09  | Butcher     | cleaver, meat hook, frying pan, oil                | d6     |
-| 10  | Carpenter   | hammer, saw, box of nails                          | d6     |
-| 07  | Herbalist   | acid, pet rat, herbs, sickle                       | d6     |
-| 14  | Miner       | pickaxe, lantern, pet canary                       | d6     |
-| 17  | Woodcutter  | axe, firewood, 50’ rope                            | d6     |
-| 18  | Gravedigger | shovel, pickaxe, bucket , crowbar                  | d4     |
-| 02  | Hunter      | tent, bearskin, bear trap                          | d8     |
+| 02  | Knight      | lady’s favor, banner, signet ring                  | d10    |
+| 03  | Vagabond    | scales, strongbox, bag of spice                    | -      |
+| 04  | Gravedigger | shovel, pickaxe, bucket , crowbar                  | d4     |
 | 05  | Pilgrim     | book, quill/ink, staff, letter of passage          | -      |
-| 20  | Knight      | lady’s favor, banner, signet ring                  | d10    |
-| 16  | Squire      | torch, armor polish, trumpet                       | d6     |
-| 08  | Burglar     | mask, caltrops, lockpicks, grappling hook, rope    | d6     |
 | 06  | Actor       | wig, makeup, costume, scepter, donkey head, motley | d4     |
-| 04  | Cultist     | dagger, ritual robes, amulet                       | d4     |
-| 13  | Vagabond    | scales, strongbox, bag of spice                    | -      |
+| 07  | Herbalist   | acid, pet rat, herbs, sickle                       | d6     |
+| 08  | Woodcutter  | axe, firewood, 50’ rope                            | d6     |
+| 09  | Butcher     | cleaver, meat hook, frying pan, oil                | d6     |
+| 10  | Framer      | hoe, sickle, seeds, plow                           | d6     |
+| 11  | Carpenter   | hammer, saw, box of nails                          | d6     |
+| 12  | Blacksmith  | hammer, bellows, tongs                             | d8     |
+| 13  | Miner       | pickaxe, lantern, pet canary                       | d6     |
+| 14  | Burglar     | mask, caltrops, lockpicks, grappling hook, rope    | d6     |
+| 15  | Soldier     | sword, shield                                      | d4     |
+| 16  | Squire      | torch, armor polish, trumpet                       | d6     |
+| 17  | Hunter      | tent, bearskin, bear trap                          | d8     |
+| 18  | Experiment  | Rags, 2 Power words                                | -      |
 
 ## Starting equipment
 
@@ -233,9 +234,15 @@ When you lose all your [Grit] you receive a wound card for each damage. If you c
 ##### Conditions
 
 - **Blind**: You cannot see. You have [Dis] on all your actions.
-- **Bleeding**: You roll a [CON] save at the end of each turn. If you fail you receive a wound.
-- **Winded**: During your turn you can move or attack, not both.
-- **Stunned**: You lose your next turn.
+- **Bleeding**: You roll a [CON] save at the end of each turn. If you fail you receive a wound. Clear after healing or Full Rest.
+- **Winded**: During your turn you can move or attack, not both. Clear after short rest.
+- **Stunned**: You lose your next turn. Clear after turn.
+- **Wounded**: You have [Dis] on all your actions. (Takes a specific slot)(Has a generic version). Clear after healing.
+- **Poisoned**: You roll a [CON] save at the end of each turn. If you fail you receive another Poisoned. Clear after healing or Full Rest.
+- **Frightened**: You need to [WIS] save to do anything. Clear after short rest.
+- **Exhausted**: You have [Dis] on all [DEX] and [STR] saves. Clear after long rest.
+- **Paralyzed**: You cannot move or attack. Clear after [CON] save.
+- **Hungry**: You need to eat something. Clear after food.
 
 ### Grit
 
@@ -259,7 +266,7 @@ To be able to cast a spell you need to know at least one word of power, you shou
 - If you roll the control number/s you cast the spell as intended.
 - If you roll over the control number/s you overcast the spell may have extra effects.
 
-### Words of Power
+### Words of Power <!-- v0.02 -->
 
 Words of power are written in the ancient language of the gods. They are the building blocks of magic. The more words you know the more powerful spells you can cast.
 
@@ -349,32 +356,316 @@ Mana and Grit Management: Players must manage their Mana and Grit carefully, bal
 
 This system encourages players to engage deeply with the magic mechanics, making spellcasting a dynamic and integral part of the Bōken experience. Players will need to think carefully about their choices, adapt to the outcomes of their spells, and explore the world to discover new Words of Power and combinations. -->
 
-### Example Spell
+<!--
+#### ${Word of Power}
 
-Fade:
-• Solo cast: Renders the caster or an object invisible for [Int] rounds or until the caster attacks.
-• Effect: Targets can’t make save against the spell or add Avg[Int]
-• Cost: 2
-• Control: 4-6
-• Failure: _Your eyes fade, making you blind_ You gain the [Blind] condition for [Int] rounds.
-• Overcast: _Your body fades, making you invisible_ Your target and all their attack become invisible for [Int] rounds.
-• Mana Burn: If failed, the spell partially works, making shadows or silhouettes visible to keen observers.
+- Solo cast: ${Effect if uses alone. most do small amounts of damage or have a small effect}
+- Effect: ${What effect it has when combined with other words}
+- Cost: ${Mana cost to cast. Usually 1-5}
+- Control: ${a number or a range of numbers that the player needs to roll under to cast the spell. usually between 3-7}
+- Failure: ${A small effect that happens when the spell fails.}
+- Overcast: ${an effect if the player rolls over the control number. a Magic critical cast}
+- Mana Burn: ${This is a magic miscast. The bigger detrimental event.}
+-->
+
+#### Shield
+
+- Solo cast: Creates a magical shield that absorbs damage equal to Avg[Int] for 1 round.
+- Effect: When combined with other spells, increases their defensive capabilities, such as adding damage resistance or extending duration.
+- Cost: 2
+- Control: 4-5
+- Failure: The shield flickers and fades. You gain no protection.
+- Overcast: The shield envelops allies nearby. Extends protection to adjacent allies for 1 round.
+- Mana Burn: The shield shatters. You take Avg[Int] damage from the backlash.
+
+#### Light
+
+- Solo cast: Conjures a bright light that illuminates dark areas and can blind enemies for 1 round.
+- Effect: When combined, increases the range or duration of spells, or adds a dazzling effect that can disorient enemies.
+- Cost: 1
+- Control: 3
+- Failure: The light dims quickly. Only illuminates briefly, offering no advantage.
+- Overcast: The light becomes blindingly radiant. Can disorient enemies for an extra round.
+- Mana Burn: The light explodes. The caster takes minor damage and is dazzled for 1 round.
+
+#### Blood
+
+- Solo cast: Drains a small amount of health from an enemy and transfers it to the caster.
+- Effect: Adds a leeching effect to spells, granting the caster health when damaging enemies.
+- Cost: 3
+- Control: 5-6
+- Failure: The life force recoils. The caster loses a small amount of health.
+- Overcast: The drain is more potent. Heals for an additional amount of the damage dealt.
+- Mana Burn: The spell backfires. The caster suffers damage equal to what would have been healed.
+
+#### Bone
+
+- Solo cast: Summons a spectral bone weapon or shield for [Int] rounds.
+- Effect: Provides a structural enhancement to spells, making conjured forms more resilient or deadly.
+- Cost: 4
+- Control: 4
+- Failure: The bone crumbles to dust. The item is weak and breaks easily.
+- Overcast: The bone is imbued with ancient power. The item gains enhanced properties for [Int] rounds.
+- Mana Burn: The conjured bone binds to you. Reduces mobility or dexterity, causing a decrease in defense or attack capability for [Int] rounds.
+
+#### Echo
+
+- Solo cast: Amplifies the caster's voice, disorienting nearby enemies for 1 round.
+- Effect: When combined, can duplicate the effect of the next spell cast, albeit at a reduced potency.
+- Cost: 2
+- Control: 6-7
+- Failure: The echo distorts, causing confusion. Affects the caster or allies negatively for 1 round.
+- Overcast: The echo resonates with power. The disorientation effect lasts for an additional [Int] rounds.
+- Mana Burn: The sound becomes cacophony. Causes temporary deafness to the caster or close allies for [Int] rounds.
+
+#### Absorb
+
+- Solo cast: Absorbs the next magical attack directed at the caster, converting it into health.
+- Effect: When combined, enhances spells with a defensive layer, converting a portion of damage taken into mana.
+- Cost: 3
+- Control: 5
+- Failure: The spell fails to absorb, leaving the caster vulnerable.
+- Overcast: Absorbs magical attacks targeting nearby allies as well.
+- Mana Burn: The spell backfires, doubling the damage of the next magical attack received.
+
+#### Armor
+
+- Solo cast: Enhances the caster's physical defense, reducing physical damage by Avg[Int] for [Int] rounds.
+- Effect: When combined, increases the toughness of created objects or the resistance of allies to physical attacks.
+- Cost: 2
+- Control: 4-5
+- Failure: The armor is flawed, offering no protection.
+- Overcast: The armor also reflects a portion of physical damage back to the attacker.
+- Mana Burn: The spell collapses, temporarily weakening the caster's defense, increasing physical damage taken.
+
+#### Arrow
+
+- Solo cast: Conjures a magical arrow that strikes a target for Avg[Int] damage.
+- Effect: When combined, adds piercing capabilities to spells, allowing them to bypass some defenses.
+- Cost: 1
+- Control: 3-4
+- Failure: The arrow veers off course, missing its target.
+- Overcast: Conjures multiple arrows to attack additional targets.
+- Mana Burn: The arrow backfires, injuring the caster.
+
+#### Bind
+
+- Solo cast: Restrains a target, preventing movement for [Int] rounds.
+- Effect: When combined, adds a restraining effect to spells, slowing or stopping enemies.
+- Cost: 3
+- Control: 5
+- Failure: The bind loosens, having no effect.
+- Overcast: The bind also silences the target, preventing spellcasting.
+- Mana Burn: The caster becomes bound, restricting their movement.
+
+#### Blade
+
+- Solo cast: Conjures a magical blade that deals Avg[Int] slashing damage.
+- Effect: When combined, sharpens spells, increasing their damage or cutting through magical protections.
+- Cost: 2
+- Control: 4
+- Failure: The blade dulls, dealing minimal damage.
+- Overcast: The blade gains a vorpal effect, increasing critical hit chances.
+- Mana Burn: The blade turns against the caster, causing a self-inflicted wound.
+
+#### Blossom
+
+- Solo cast: Causes an area to burst into healing flora, restoring Avg[Int] health to allies within it for [Int] rounds.
+- Effect: When combined, adds a regenerative property to spells, slowly healing over time.
+- Cost: 4
+- Control: 5-6
+- Failure: The flora withers, providing no healing.
+- Overcast: The healing effect is doubled.
+- Mana Burn: Poisonous plants sprout instead, dealing damage to allies in the area.
+
+#### Bolt
+
+- Solo cast: Launches a bolt of energy at a target, dealing Avg[Int] elemental damage.
+- Effect: When combined, electrifies spells, adding a chance to stun or paralyze.
+- Cost: 2
+- Control: 3-4
+- Failure: The bolt fizzles out before reaching its target.
+- Overcast: The bolt chains to additional nearby enemies.
+- Mana Burn: The caster is shocked, suffering damage and a possible stun.
+
+#### Burn
+
+- Solo cast: Engulfs a target in flames, dealing Avg[Int] fire damage over [Int] rounds.
+- Effect: When combined, adds a burning effect to spells, causing ongoing damage.
+- Cost: 3
+- Control: 4-5
+- Failure: The flames sputter out, causing no damage.
+- Overcast: The fire spreads, affecting a larger area or more targets.
+- Mana Burn: The spell ignites the surroundings, potentially harming the caster and allies.
+
+#### Crystal
+
+- Solo cast: Conjures a crystal barrier that blocks attacks and breaks after absorbing Avg[Int]\*2 damage.
+- Effect: When combined, crystallizes spells, enhancing their durability or longevity.
+- Cost: 3
+- Control: 5
+- Failure: The crystal is brittle, shattering easily.
+- Overcast: The barrier reflects a portion of damage back to attackers.
+- Mana Burn: The crystal explodes, causing damage to the caster and nearby allies.
+
+#### Duplicate
+
+- Solo cast: Creates an illusory duplicate of the caster that lasts for [Int] rounds or until dispelled.
+- Effect: When combined, duplicates the next spell cast, though the duplicate has a reduced effect.
+- Cost: 4
+- Control: 6
+- Failure: The duplicate is obviously fake, fooling no one.
+- Overcast: Creates multiple duplicates, increasing confusion among enemies.
+- Mana Burn: The duplicate turns hostile, attacking the caster or allies.
+
+#### Flame
+
+- Solo cast: Ignites a small area or target, causing Avg[Int] fire damage instantly.
+- Effect: Adds fiery damage to spells or causes objects to ignite, dealing ongoing damage.
+- Cost: 2
+- Control: 4
+- Failure: The flame quickly extinguishes, causing no harm.
+- Overcast: The flame engulfs the target area, increasing the damage and area of effect.
+- Mana Burn: The flames spiral out of control, causing damage to the caster and nearby allies.
+
+#### Hand
+
+- Solo cast: Conjures a spectral hand that can manipulate objects or strike enemies for Avg[Int] force damage.
+- Effect: Adds manipulation capabilities to spells, allowing for telekinetic control or enhancing grip.
+- Cost: 3
+- Control: 5
+- Failure: The hand flickers and fades, unable to affect anything.
+- Overcast: The hand's strength increases, allowing it to grapple enemies or move heavier objects.
+- Mana Burn: The hand turns against the caster, attempting to throttle them or interfere with their actions.
+
+#### Heal
+
+- Solo cast: Restores Avg[Int]\*2 health to a single target.
+- Effect: Adds a healing component to spells, restoring health over time or to multiple targets.
+- Cost: 4
+- Control: 5-6
+- Failure: The healing energy dissipates, having no effect.
+- Overcast: The spell also removes minor ailments or conditions from the target.
+- Mana Burn: The spell drains the caster's vitality, transferring it to the target instead.
+
+#### Jar
+
+- Solo cast: Traps a small creature or object within a magical jar, immobilizing it for [Int] rounds.
+- Effect: Adds a containment or suppression effect to spells, limiting enemy actions or sealing away dangers.
+- Cost: 3
+- Control: 5
+- Failure: The jar fails to form, leaving the target free.
+- Overcast: The jar becomes nearly indestructible, extending the duration and resisting attempts to break free.
+- Mana Burn: The jar implodes if attempted on too powerful an entity, potentially harming the caster and nearby allies.
+
+#### Thorn
+
+- Solo cast: Sprouts thorns from the ground around a target area, dealing Avg[Int] piercing damage to those who pass.
+- Effect: Adds a hindrance or damage-over-time effect to spells, creating barriers or traps.
+- Cost: 2
+- Control: 4-5
+- Failure: The thorns are too weak, causing no damage.
+- Overcast: The thorns grow rapidly, covering a larger area or ensnaring enemies.
+- Mana Burn: The thorns turn against the caster, sprouting beneath them and causing injury.
+
+#### Whip
+
+- Solo cast: Conjures a whip of energy that can strike for Avg[Int] damage or disarm an opponent.
+- Effect: Adds flexibility or reach to spells, allowing for targeted strikes or pulling objects/enemies closer.
+- Cost: 2
+- Control: 4
+- Failure: The whip dissipates before making contact.
+- Overcast: The whip strikes with electrical energy, possibly stunning the target.
+- Mana Burn: The whip backlashes, injuring the caster or entangling them.
+
+#### Wither
+
+- Solo cast: Causes a target to age rapidly, weakening them and reducing their damage output by Avg[Int] for [Int] rounds.
+- Effect: Adds a debilitating effect to spells, sapping strength or vitality from enemies.
+- Cost: 3
+- Control: 5
+- Failure: The target resists the aging effect.
+- Overcast: The effect spreads, affecting multiple targets within a small radius.
+- Mana Burn: The spell backfires, causing the caster to age temporarily and suffer weakened abilities.
+
+#### Wood
+
+- Solo cast: Grows a wooden barrier or structure that can provide cover or impede movement. Can absorb Avg[Int]\*2 damage before breaking.
+- Effect: Adds structural creation or nature manipulation to spells, allowing for environmental control.
+- Cost: 3
+- Control: 5
+- Failure: The wood is brittle and breaks easily.
+- Overcast: The wooden structure is fortified, absorbing more damage and lasting longer.
+- Mana Burn: The structure grows uncontrollably, potentially trapping the caster or allies.
+
+#### Fade
+
+- Solo cast: Temporarily renders the caster or an object they touch invisible, making them harder to detect and target for [Int] rounds.
+- Effect: When combined with other spells, grants them stealthy execution, reducing the chance of detection or enhancing surprise effects.
+- Cost: 3
+- Control: 4-6
+- Failure: The attempt at invisibility flickers, providing no concealment and leaving the caster visible.
+- Overcast: The invisibility extends to the caster's immediate surroundings, cloaking nearby allies or objects as well.
+- Mana Burn: The spell fails catastrophically, outlining the caster in a glowing aura that makes them more visible and easier to target, increasing the accuracy of incoming attacks against them for [Int] rounds.
 
 ### Signature Spells
 
 Signature spells are the discovery by a magic user of a unique combination of words that only they can cast. These spells are usually more powerful, cost less mana and have unique effects but tend to be more difficult to control.
 
-Ex:
+#### Gilban's Prismatic Saber
 
-1. Absorb, Blade, Crystal = Gilban's Prismatic Saber:
+- Combination: Absorb, Blade, Crystal
+- Effect: Summons a radiant saber of prismatic light that can absorb and reflect magical energy. Deals Max[Int] damage and can deflect a single spell back to the caster per use.
+- Cost: 4 (reduced due to its signature nature)
+- Control: 6-7 (more difficult to control due to its power)
+- Special: If the reflected spell hits an enemy, the saber gains an additional damage modifier equal to half of the original spell's power for the next attack.
+- Fail: The saber fizzles upon summoning, dealing minor radiant damage to the caster.
+- Overcast: The saber's radiant energy explodes upon the next strike, dealing area damage to enemies around the target.
+- Mana Burn: The saber shatters into harmful prismatic shards, causing significant damage to the caster and nearby allies.
 
-2. Bind, Bolt, Bone = Otomund's Lich Grasp:
+#### Otomund's Lich Grasp
 
-3. Burn, Hand, Heal = Phoenix's Embrace:
+- Combination: Bind, Bolt, Bone
+- Effect: Creates a spectral hand that emerges from the ground, grasping and immobilizing a target. Deals Avg[Int] necrotic damage per round for [Int] rounds and paralyzes the target.
+- Cost: 5
+- Control: 7
+- Special: If the target is killed by this spell, they temporarily rise as an undead servant for the caster for [Int] minutes.
+- Fail: The spectral hand grasps the caster instead, immobilizing them for 1 round.
+- Overcast: The hand crushes with deadly force, dealing extra necrotic damage and extending the undead servant's duration if it kills the target.
+- Mana Burn: The hand turns against the caster, draining their life force and temporarily reducing their maximum health.
 
-4. Jar, Light, Shield = Lantern of Hoping Light:
+#### Phoenix's Embrace
 
-5. Thorn, Wither, Wood = Nature's Wrath:
+- Combination: Burn, Hand, Heal
+- Effect: Engulfs the caster or target in a protective fire that heals Max[Int] damage instantly and provides immunity to fire damage for [Int] rounds. Additionally, if the target is at 0 health, it brings them back to 1 health.
+- Cost: 6 (due to its potent healing and protective capabilities)
+- Control: 5-6
+- Special: Upon activation, enemies within a close radius take Avg[Int] fire damage due to the burst of flame.
+- Fail: The fire burns uncontrollably, injuring the target and dealing fire damage instead of healing.
+- Overcast: The protective fire resurrects the target with additional health if they were at 0 health, and grants a temporary fire aura that damages nearby enemies.
+- Mana Burn: The spell's fire engulfs the caster in flames, causing significant damage and potentially knocking them unconscious.
+
+#### Lantern of Hoping Light
+
+- Combination: Jar, Light, Shield
+- Effect: Summons a hovering lantern that radiates a powerful light, providing a shield that absorbs Avg[Int]\*3 damage to all allies within its luminous embrace for [Int] rounds. It also dispels darkness and reveals invisible entities.
+- Cost: 4
+- Control: 6
+- Special: Allies within the light's radius gain a bonus to their hit rolls due to improved visibility.
+- Fail: The lantern dims immediately, offering no protection or illumination and leaving the caster vulnerable.
+- Overcast: The lantern's light reaches further, enhancing its protective shield and revealing even hidden or magical traps in addition to invisible entities.
+- Mana Burn: The lantern explodes in a blinding flash, causing damage to allies and temporarily blinding them.
+
+#### Nature's Wrath
+
+- Combination: Thorn, Wither, Wood
+- Effect: Calls forth a maelstrom of nature's fury, causing thorny vines to erupt from the ground, dealing Max[Int] damage and entangling enemies in a wide area. Affected enemies suffer a reduction in speed and take ongoing damage for [Int] rounds.
+- Cost: 5
+- Control: 7
+- Special: The entangled area becomes difficult terrain, hindering enemy movement and providing cover for the caster and allies.
+- Fail: The summoned vines turn on the caster, entangling them and dealing initial damage.
+- Overcast: The area affected by the spell expands significantly, and the vines sap strength from enemies, transferring it to the caster and allies as temporary health.
+- Mana Burn: The spell's energy becomes wild and uncontrollable, causing the terrain to become hazardous to all, including the caster and allies, and possibly altering the landscape in a harmful way.
 
 ## Glossary
 
