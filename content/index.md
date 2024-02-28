@@ -1,4 +1,4 @@
-# Bōken
+# Bōken <!-- v0.1 -->
 
 _冒険_ means Adventurer
 
