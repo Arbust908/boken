@@ -52,7 +52,23 @@ Bōken's core is adaptability, designed to thrive in the darkest corners of fant
 
 ## Gear and prices
 
-<!-- ToDo: Add a table with gear and prices -->
+| Item           | Cost | Slots | Usage | Conditions                             |
+| -------------- | ---- | ----- | ----- | -------------------------------------- |
+| Torch          | 1    | 1     | 6     | Light a small area                     |
+| Rations        | 1    | 1     | 3     | In rest, nurishes                      |
+| Rope           | 1    | 1     | -     | -                                      |
+| Grappling hook | 1    | 1     | -     | -                                      |
+| Lantern        | 2    | 1     | 6     | Light a large area                     |
+| Oil            | 1    | 1     | 3     | Lubricates                             |
+| Tent           | 2    | 2     | -     | Mitigates climate when resting outside |
+| Blanket        | 1    | 1     | -     | -                                      |
+| Bedroll        | 1    | 1     | -     | -                                      |
+| Waterskin      | 1    | 1     | -     | Hydrates                               |
+| Sack           | 1    | 1     | -     | -                                      |
+| Backpack       | 2    | 2     | -     | -                                      |
+| Map            | 1    | 1     | -     | -                                      |
+| Compass        | 1    | 1     | -     | -                                      |
+| Whistle        | 1    | 1     | -     | -                                      |
 
 ## Making an Adventurer
 
@@ -119,7 +135,16 @@ You start your adventure with Torches, Rations, and whatever your Background giv
 
 You can give your adventure its details but I’m if you need inspiration or preference to leave the details to luck you can use the table below.
 
-<!-- ToDo: Add a table with details -->
+| d8  | Physique | Face   | Skin     | Hair   |
+| --- | -------- | ------ | -------- | ------ |
+| 1   | Tall     | Scar   | Pale     | Bald   |
+| 2   | Short    | Pock   | Dark     | Red    |
+| 3   | Lean     | Hairy  | Fair     | Grey   |
+| 4   | Stout    | Thin   | Tanned   | Black  |
+| 5   | Muscular | Wide   | Ruddy    | Brown  |
+| 6   | Slender  | Round  | Olive    | White  |
+| 7   | Fat      | Sharp  | Freckled | Blonde |
+| 8   | Thin     | Square | Dark     | Grey   |
 
 ## Inventory
 

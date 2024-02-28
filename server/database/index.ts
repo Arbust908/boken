@@ -1,9 +1,14 @@
-export function getRandomInt(max) {
+export function getRandomInt(max: number) {
   return Math.floor(Math.random() * Math.floor(max))
 }
 
-export function randomElement(array) {
-  return array[getRandomInt(array.length)]
+export function randomElement(array: any[]) {
+  const randomIndex = getRandomInt(array.length)
+  return getElementByIndex(array, randomIndex)
+}
+
+export function getElementByIndex(array: any[], index: number) {
+  return array[index]
 }
 
 const physique = [

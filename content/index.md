@@ -24,9 +24,10 @@ Bōken invites you on a journey where every choice carves the path of your legac
 
   A flexible and creative magic system where spells are crafted from combining Words, allowing for personalized and situation-specific spells.
 
+<!--
 - Usage and Conditions:
 
-<!-- Items and gear have usage points and conditions, adding a layer of realism and tactical depth to equipment management.
+Items and gear have usage points and conditions, adding a layer of realism and tactical depth to equipment management.
 
 Dice-size Attribute: Character attributes are not just numbers but dice that grow as you do, embodying your strengths, your learning, and your evolution.
 
@@ -36,17 +37,12 @@ Grit System: Not just a measure of endurance but a testament to your resilience,
 
 Words of Power: Magic here is not just cast but crafted, a domain where creativity and knowledge blend to forge spells of immense power and utility.
 
-Usage and Conditions: Every item in your possession tells a story, marked by battles fought and challenges overcome, adding depth to every choice. -->
+Usage and Conditions: Every item in your possession tells a story, marked by battles fought and challenges overcome, adding depth to every choice.
+-->
 
 ### The World of Bōken
 
-The air is thick with the stench of decay, as the sun sets over a world plunged into darkness. The forests are filled
-with malevolent spirits, seeking to prey upon the living. In this world, might is right, and only the strongest
-survive. The people who call this place home are hardened by years of violence and strife. They know that the shadows
-hold secrets, and that the night brings with it unspeakable horrors. Yet despite the danger, they refuse to give in
-to despair. For them, every day is a struggle to survive, and every victory a triumph over the forces of evil that
-seek to consume them. Welcome to the world of dark fantasy, where the lines between good and evil are blurred, and
-the only certainty is that the darkness will always seek to swallow the light.
+A land shrouded in shadow, where the remnants of a once bright world struggle against the tide of darkness. Here, ancient evils stir in the deep woods, and spirits haunt the ruins of forgotten realms. It's a world where the line between heroism and survival is thin, and legends are born from the deeds of those who dare to challenge the darkness. Welcome to a place where every victory is etched with the scars of sacrifice, and the light of hope is a precious flame guarded by the few against the many.
 
 > This is the default setting for Bōken, but the system is designed to be adaptable to any setting or genre.
 > The rules and mechanics are designed for a dark world, low fantasy, and high risk. The world is a dangerous place, and the players will need to be smart, resourceful, and lucky to survive.
@@ -58,7 +54,23 @@ Bōken's core is adaptability, designed to thrive in the darkest corners of fant
 
 ## Gear and prices
 
-<!-- ToDo: Add a table with gear and prices -->
+| Item           | Cost | Slots | Usage | Conditions                             |
+| -------------- | ---- | ----- | ----- | -------------------------------------- |
+| Torch          | 1    | 1     | 6     | Light a small area                     |
+| Rations        | 1    | 1     | 3     | In rest, nurishes                      |
+| Rope           | 1    | 1     | -     | -                                      |
+| Grappling hook | 1    | 1     | -     | -                                      |
+| Lantern        | 2    | 1     | 6     | Light a large area                     |
+| Oil            | 1    | 1     | 3     | Lubricates                             |
+| Tent           | 2    | 2     | -     | Mitigates climate when resting outside |
+| Blanket        | 1    | 1     | -     | -                                      |
+| Bedroll        | 1    | 1     | -     | -                                      |
+| Waterskin      | 1    | 1     | -     | Hydrates                               |
+| Sack           | 1    | 1     | -     | -                                      |
+| Backpack       | 2    | 2     | -     | -                                      |
+| Map            | 1    | 1     | -     | -                                      |
+| Compass        | 1    | 1     | -     | -                                      |
+| Whistle        | 1    | 1     | -     | -                                      |
 
 ## Making an Adventurer
 
@@ -82,11 +94,11 @@ _Your attributes describe your adventure._
 
 When creating your adventurer you have 4d4s, and 2d6s to allocate in between your six attributes.
 
-> Cost per dice 1d4 1pt, 1d6 2pts, 1d8 4pts, 1d10 8pts, 1d12 16pts
+<!-- > Cost per dice 1d4 1pt, 1d6 2pts, 1d8 4pts, 1d10 8pts, 1d12 16pts -->
 
-#### Improvement
+<!-- #### Improvement
 
-> Improvement can be made on attributes during play. When a save is critically failed you mark that attribute. The next time you rest you can roll that attribute. On a 1 mark a pip. Once you get to the maximum number of the attribute, the attribute grows a size. Ex: if your attribute is a d4 you’ll need 4 pips to upgrade from a d4 to a d6. Then you’ll need 6 pip to upgrade to a d8. And so on.
+> Improvement can be made on attributes during play. When a save is critically failed you mark that attribute. The next time you rest you can roll that attribute. On a 1 mark a pip. Once you get to the maximum number of the attribute, the attribute grows a size. Ex: if your attribute is a d4 you’ll need 4 pips to upgrade from a d4 to a d6. Then you’ll need 6 pip to upgrade to a d8. And so on. -->
 
 ### Grit, background & wealth
 
@@ -98,7 +110,24 @@ Your wealth is determined by your background and is gaged via Usage Dice.
 
 ### Backgrounds
 
-<!-- ToDo: Add a table with backgrounds -->
+| 3d6 | Background  | Starting Equipment                                 | Wealth |
+| --- | ----------- | -------------------------------------------------- | ------ |
+| 01  | Framer      | hoe, sickle, seeds, plow                           | d6     |
+| 03  | Blacksmith  | hammer, bellows, tongs                             | d8     |
+| 09  | Butcher     | cleaver, meat hook, frying pan, oil                | d6     |
+| 10  | Carpenter   | hammer, saw, box of nails                          | d6     |
+| 07  | Herbalist   | acid, pet rat, herbs, sickle                       | d6     |
+| 14  | Miner       | pickaxe, lantern, pet canary                       | d6     |
+| 17  | Woodcutter  | axe, firewood, 50’ rope                            | d6     |
+| 18  | Gravedigger | shovel, pickaxe, bucket , crowbar                  | d4     |
+| 02  | Hunter      | tent, bearskin, bear trap                          | d8     |
+| 05  | Pilgrim     | book, quill/ink, staff, letter of passage          | -      |
+| 20  | Knight      | lady’s favor, banner, signet ring                  | d10    |
+| 16  | Squire      | torch, armor polish, trumpet                       | d6     |
+| 08  | Burglar     | mask, caltrops, lockpicks, grappling hook, rope    | d6     |
+| 06  | Actor       | wig, makeup, costume, scepter, donkey head, motley | d4     |
+| 04  | Cultist     | dagger, ritual robes, amulet                       | d4     |
+| 13  | Vagabond    | scales, strongbox, bag of spice                    | -      |
 
 ## Starting equipment
 
