@@ -1,248 +1,248 @@
-# Bōken
+# Bōken <!-- v0.1 -->
 
-> _冒険_ significa "aventurero"
+_冒険_ significa Aventurero
 
 ## Introducción
 
-Bōken te invita a un viaje donde cada elección talla el camino de tu legado. En un reino donde la oscuridad araña los bordes de la realidad y el aire está cargado con los susurros de dioses olvidados, tú eres el faro contra la penumbra que se acerca. Esto no es solo un juego; es un desafío para los valientes, un llamado a los sabios y una invitación a aquellos que se atreven a soñar. Bōken es tu historia, un tapiz de peligro y triunfo tejido con los hilos de tu imaginación.
+Bōken te invita a un viaje donde cada elección talla el camino de tu legado. En un reino donde la oscuridad araña los bordes de la realidad, y el aire está cargado con los susurros de dioses olvidados, tú eres el faro contra la penumbra invasora. Esto no es solo un juego; es un desafío para los valientes, un llamado para los sabios, y un reclamo para aquellos que se atreven a soñar. Bōken es tu historia, un tapiz de peligro y triunfo tejido con los hilos de tu imaginación.
 
 ### ¿Por qué Bōken?
 
-- Dice-size Attribute:
+- Atributo del Tamaño del Dado:
 
-  _Character attributes are represented by dice, allowing for a dynamic and flexible system that reflects the character's abilities and growth._
+  Los atributos de los personajes están representados por dados, permitiendo un sistema dinámico y flexible que refleja las habilidades del personaje y su crecimiento.
 
-- You are your Inventory:
+- Tú eres tu Inventario:
 
-  _A slot-based inventory system that changes what you can do and how. Also counting as your life points._
+  Un sistema de inventario basado en ranuras que cambia lo que puedes hacer y cómo. También cuenta como tus puntos de vida.
 
-- Grit System:
+- Sistema de Valor:
 
-  _A unique buffer system that represents the character's ability to shrug off damage and keep fighting. Also used to empower spells and abilities._
+  Un sistema de amortiguación único que representa la habilidad del personaje para resistir daño y seguir luchando. También se utiliza para potenciar hechizos y habilidades.
 
-- Words of Power:
+- Palabras de Poder:
 
-  _A flexible and creative magic system where spells are crafted from combining Words, allowing for personalized and situation-specific spells._
+  Un sistema de magia flexible y creativo donde los hechizos se elaboran combinando Palabras, permitiendo hechizos personalizados y específicos para cada situación.
 
-<!-- - Usage and Conditions: -->
+### El Mundo de Bōken
 
-<!-- Items and gear have usage points and conditions, adding a layer of realism and tactical depth to equipment management.
+Una tierra envuelta en sombras, donde los remanentes de un mundo una vez brillante luchan contra la marea de oscuridad. Aquí, antiguos males se agitan en los bosques profundos, y espíritus acechan las ruinas de reinos olvidados. Es un mundo donde la línea entre el heroísmo y la supervivencia es delgada, y las leyendas nacen de las hazañas de aquellos que se atreven a desafiar la oscuridad. Bienvenido a un lugar donde cada victoria está marcada con las cicatrices del sacrificio, y la luz de la esperanza es una llama preciosa custodiada por pocos contra muchos.
 
-Dice-size Attribute: Character attributes are not just numbers but dice that grow as you do, embodying your strengths, your learning, and your evolution.
+> Este es el escenario predeterminado para Bōken, pero el sistema está diseñado para ser adaptable a cualquier escenario o género.
+> Las reglas y mecánicas están diseñadas para un mundo oscuro, fantasía baja y alto riesgo. El mundo es un lugar peligroso, y los jugadores necesitarán ser inteligentes, ingeniosos y afortunados para sobrevivir.
+> Aún así, un GM creativo puede ajustar algunos de los números y reglas para cambiar el tema y tono del juego.
 
-You are your Inventory: Your gear does more than define you—it's your lifeline, your toolkit, and, in dire moments, your survival.
+## Equipo y precios
 
-Grit System: Not just a measure of endurance but a testament to your resilience, allowing you to push beyond limits and bend fate to your will.
+| Artículo          | Costo | Ranuras | Uso | Condiciones                         |
+| ----------------- | ----- | ------- | --- | ----------------------------------- |
+| Antorcha          | 1     | 1       | 6   | Ilumina un área pequeña             |
+| Raciones          | 1     | 1       | 3   | En descanso, nutre                  |
+| Cuerda            | 1     | 1       | -   | -                                   |
+| Garfio            | 1     | 1       | -   | -                                   |
+| Linterna          | 2     | 1       | 6   | Ilumina un área grande              |
+| Aceite            | 1     | 1       | 3   | Lubrica                             |
+| Tienda de campaña | 2     | 2       | -   | Mitiga el clima al descansar afuera |
+| Manta             | 1     | 1       | -   | -                                   |
+| Saco de dormir    | 1     | 1       | -   | -                                   |
+| Cantimplora       | 1     | 1       | -   | Hidrata                             |
+| Saco              | 1     | 1       | -   | -                                   |
+| Mochila           | 2     | 2       | -   | -                                   |
+| Mapa              | 1     | 1       | -   | -                                   |
+| Brújula           | 1     | 1       | -   | -                                   |
+| Silbato           | 1     | 1       | -   | -                                   |
 
-Words of Power: Magic here is not just cast but crafted, a domain where creativity and knowledge blend to forge spells of immense power and utility.
+## Creando un Aventurero
 
-Usage and Conditions: Every item in your possession tells a story, marked by battles fought and challenges overcome, adding depth to every choice. -->
+El mundo es injusto y cruel. La naturaleza es peligrosa, y las ciudades son un poco más seguras. Los aventureros desafían la tierra buscando hacer su nombre enfrentando los males del mundo.
 
-### The World of Bōken
+### Atributos
 
-A land shrouded in shadow, where the remnants of a once bright world struggle against the tide of darkness. Here, ancient evils stir in the deep woods, and spirits haunt the ruins of forgotten realms. It's a world where the line between heroism and survival is thin, and legends are born from the deeds of those who dare to challenge the darkness. Welcome to a place where every victory is etched with the scars of sacrifice, and the light of hope is a precious flame guarded by the few against the many.
+_Tus atributos describen tu aventura._
 
-> This is the default setting for Bōken, but the system is designed to be adaptable to any setting or genre.
-> The rules and mechanics are designed for a dark world, low fantasy, and high risk. The world is a dangerous place, and the players will need to be smart, resourceful, and lucky to survive.
-> Still a creative GM can tweak some of the numbers and rules to change the theme and tone of the game.
+**Fuerza** [STR]: El poder de tus brazos y la fuerza de tu resolución.
 
-<!-- A land shrouded in shadow, where the remnants of a once bright world struggle against the tide of darkness. Here, ancient evils stir in the deep woods, and spirits haunt the ruins of forgotten realms. It's a world where the line between heroism and survival is thin, and legends are born from the deeds of those who dare to challenge the darkness. Welcome to a place where every victory is etched with the scars of sacrifice, and the light of hope is a precious flame guarded by the few against the many.
+**Destreza** [DEX]: La gracia de tus movimientos y la precisión de tus acciones.
 
-Bōken's core is adaptability, designed to thrive in the darkest corners of fantasy or the brightest peaks of adventure. It's a call to arms for those who seek to forge their own path, to challenge the darkness with steel and spell. -->
+**Constitución** [CON]: Tu resistencia, tu fortaleza—la fuente de tu vitalidad.
 
-## Gear and prices
+**Inteligencia** [INT]: La profundidad de tu conocimiento y la agudeza de tu mente.
 
-## Making an Adventurer
+**Sabiduría** [WIS]: La fuerza de tu espíritu y la claridad de tu intuición.
 
-The world is unfair and cruel. The wilderness is hazardous, and the cities are a bit safer. Adventurers brave the land looking to make their name by facing the world's evils.
+**Carisma** [CHA]: La fuerza de tu presencia y el poder de tus palabras.
 
-### Attributes
+Al crear tu aventurero tienes 4d4s y 2d6s para repartir entre tus seis atributos.
 
-_Your attributes describe your adventure._
+### Valor, antecedentes y riqueza
 
-**Strength** [STR]: The might of your arms and the force of your resolve.
+Tira 2d6 y descarta el más bajo para tu Valor. Esto es el daño que tu aventurero puede ignorar antes de sufrir daño grave.
 
-**Dexterity** [DEX]: The grace of your movements and the precision of your actions.
+Tira o elige un Antecedente de la tabla. Esto es lo que estabas haciendo cuando te llegó el llamado a la aventura.
 
-**Constitution** [CON]: Your endurance, your fortitude—the wellspring of your vitality.
+Tu riqueza está determinada por tu antecedente y se mide mediante Dados de Uso.
 
-**Intelligence** [INT]: The depth of your knowledge and the acuity of your mind.
+### Antecedentes
 
-**Wisdom** [WIS]: The strength of your spirit and the clarity of your intuition.
+| 3d6 | Antecedente | Equipo Inicial                                                | Riqueza |
+| --- | ----------- | ------------------------------------------------------------- | ------- |
+| 02  | Caballero   | favor de una dama, bandera, anillo de sello                   | d10     |
+| 03  | Vagabundo   | balanza, caja fuerte, bolsa de especias                       | -       |
+| 04  | Sepulturero | pala, pico, cubo, palanca                                     | d4      |
+| 05  | Peregrino   | libro, pluma/tinta, bastón, carta de paso                     | -       |
+| 06  | Actor       | peluca, maquillaje, disfraz, cetro, cabeza de burro, arlequín | d4      |
+| 07  | Herborista  | ácido, rata mascota, hierbas, hoz                             | d6      |
+| 08  | Leñador     | hacha, leña, cuerda de 50’                                    | d6      |
+| 09  | Carnicero   | cuchillo de carnicero, gancho de carne, sartén, aceite        | d6      |
+| 10  | Agricultor  | azada, hoz, semillas, arado                                   | d6      |
+| 11  | Carpintero  | martillo, sierra, caja de clavos                              | d6      |
+| 12  | Herrero     | martillo, fuelle, tenazas                                     | d8      |
+| 13  | Minero      | pico, linterna, canario mascota                               | d6      |
+| 14  | Ladrón      | máscara, caltrops, ganzúas, garfio, cuerda                    | d6      |
+| 15  | Soldado     | espada, escudo                                                | d4      |
+| 16  | Escudero    | antorcha, pulimento para armadura, trompeta                   | d6      |
+| 17  | Cazador     | tienda, piel de oso, trampa para osos                         | d8      |
+| 18  | Experimento | Harapos, 2 Palabras de poder                                  | -       |
 
-**Charisma** [CHA]: The force of your presence and the power of your words.
+## Equipo inicial
 
-When creating your adventurer you have 4d4s, and 2d6s to allocate in between your six attributes.
+Comienzas tu aventura con Antorchas, Raciones y lo que tu Antecedente te proporcione.
 
-<!-- > Cost per dice 1d4 1pt, 1d6 2pts, 1d8 4pts, 1d10 8pts, 1d12 16pts -->
+### Detalles
 
-<!-- #### Improvement
+Puedes darle a tu aventura sus detalles, pero si necesitas inspiración o prefieres dejar los detalles al azar, puedes usar la tabla a continuación.
 
-> Improvement can be made on attributes during play. When a save is critically failed you mark that attribute. The next time you rest you can roll that attribute. On a 1 mark a pip. Once you get to the maximum number of the attribute, the attribute grows a size. Ex: if your attribute is a d4 you’ll need 4 pips to upgrade from a d4 to a d6. Then you’ll need 6 pip to upgrade to a d8. And so on. -->
+## Inventario
 
-### Grit, background & wealth
+### **Ranuras de Inventario**
 
-Roll 2d6 drop the lowest for your Grit. This is the damage your adventurer can shrug off before taking serious harm.
+El inventario se gestiona con _ranuras_, donde los objetos ocupan una y si son más grandes pueden ocupar más de una. Los objetos equipados tienen ranuras especiales.
 
-Roll or choose a Background from the chart. This is what you were doing when the call for adventure hit you.
+### Manos
 
-Your wealth is determined by your background and is gaged via Usage Dice.
+Lo que uno tiene en sus manos o a su alcance.
 
-### Backgrounds
+### Cuerpo
 
-| 3d6 | Background  | Starting Equipment                                 | Wealth |
-| --- | ----------- | -------------------------------------------------- | ------ |
-| 01  | Framer      | hoe, sickle, seeds, plow                           | d6     |
-| 03  | Blacksmith  | hammer, bellows, tongs                             | d8     |
-| 09  | Butcher     | cleaver, meat hook, frying pan, oil                | d6     |
-| 10  | Carpenter   | hammer, saw, box of nails                          | d6     |
-| 07  | Herbalist   | acid, pet rat, herbs, sickle                       | d6     |
-| 14  | Miner       | pickaxe, lantern, pet canary                       | d6     |
-| 17  | Woodcutter  | axe, firewood, 50’ rope                            | d6     |
-| 18  | Gravedigger | shovel, pickaxe, bucket , crowbar                  | d4     |
-| 02  | Hunter      | tent, bearskin, bear trap                          | d8     |
-| 05  | Pilgrim     | book, quill/ink, staff, letter of passage          | -      |
-| 20  | Knight      | lady’s favor, banner, signet ring                  | d10    |
-| 16  | Squire      | torch, armor polish, trumpet                       | d6     |
-| 08  | Burglar     | mask, caltrops, lockpicks, grappling hook, rope    | d6     |
-| 06  | Actor       | wig, makeup, costume, scepter, donkey head, motley | d4     |
-| 04  | Cultist     | dagger, ritual robes, amulet                       | d4     |
-| 13  | Vagabond    | scales, strongbox, bag of spice                    | -      |
+Lo que llevas en tu cuerpo, colgando o vistiendo.
 
-## Starting equipment
+### Bolsa
 
-You start your adventure with Torches, Rations, and whatever your Background gives you.
+Lo que está en lugares que son más difíciles de alcanzar en combate.
 
-### Details
+### **Sobrecarga**
 
-You can give your adventure its details but I’m if you need inspiration or preference to leave the details to luck you can use the table below.
+Cuando tienes más de las _ranuras_ que puedes, no puedes correr y tus tiradas tienen [DES]
 
-<!-- ToDo: Add a table with details -->
+### **Condiciones**
 
-## Inventory
+Cuando recibes daño o algún efecto negativo ocupan _ranuras_. Las condiciones dicen cómo pueden ser removidas. Un aventurero puede tener múltiples copias de una condición.
 
-### **Inventory slots**
+### **Banco**
 
-The inventory is managed with _slots_, where the objects occupy one and if they are larger they can occupy more than one. Equipped items have special slots.
+Cuando estás en una ciudad segura puedes encontrar establecimientos para depositar dinero y/o objetos que quieras guardar o no perder.
+Dependiendo del establecimiento y lo que deposites, el costo puede ser fijo o un porcentaje.
 
-### Hands
+### **Uso**
 
-What one has in one's hands or within their reach.
+La mayoría de los ítems tienen tres puntos de uso. Cuando se marcan los tres, el ítem se rompe o consume. Los ítems rotos pueden ser reparados.
 
-### Body
+#### **Armas, Armaduras y Munición**
 
-What you carry on your body, hanging or wearing.
+Después de cada combate donde se usó, tiras un `d6`. En un 5 o 6 marcas un punto.
 
-### Bag
+#### **Linternas y Antorchas**
 
-Which is in places that are more difficult to reach in combat.
+Marcar un punto cada 6 turnos.
 
-### **Encumbrance**
+#### **Raciones y Líquidos**
 
-When you have more than the _slots_ you can, you cannot run and your rolls have [DIS]
+Marcar cada vez que lo uses.
 
-### **Conditions**
+Otros ítems tendrán sus marcas y reglas.
 
-When you receive damage or some negative effect they occupy _slots_. The conditions say how they can be removed. An adventurer can have multiple copies of a condition.
+## Cómo jugar
 
-### **Banking**
+_Para nosotros, los TTRPG son conversaciones entre el GM y los jugadores, donde el GM presenta una situación y los jugadores responden con sus personajes. El GM luego narra las consecuencias que llevan a la siguiente situación, y así avanza la historia._
 
-When you are in a safe city you can find establishments to deposit money and/or objects that you want to keep or not lose.
-Depending on the establishment and what you deposit, the cost may be fixed or a percentage.
+### Juego de Rol
 
-### **Usage**
+Como jugadores también interpretamos el papel de nuestros personajes, reaccionando y actuando como lo haría tu personaje. Puedes narrar lo que hace tu personaje o hablar como si fueras tu personaje.
 
-Most items have three points of use. When all three are marked the item is broken or consumed. Broken items can be repaired.
+Mejores Prácticas
 
-#### **Weapons, Armor and Ammunition**
+- Pregunta. Toma notas. Esboza mapas.
+- Colabora. Haz planes. Alianzas.
+- Los dados son una apuesta. ¿Tienes un plan? Evita esos lanzamientos.
+- Apunta a ganar. Ama los fallos. Acepta los fracasos.
+- Pelea sucio.
 
-After each combat where it was used, you roll a `d6`. On a 5 or 6 you mark a dot.
+### Salvaciones
 
-#### **Flashlights and Torches**
+Cuando tu personaje quiere hacer algo con un resultado arriesgado o incierto, tiras una salvación del atributo relacionado con la actividad. _(Tira por debajo o por encima)_
 
-You score a point every 6 turns.
+**Salvaciones Opuestas:** Cuando compites contra otra criatura ambos tiran salvaciones y se comparan.
 
-#### **Rations and Liquids**
+**Ventaja** [Ven]: Cuando una situación se vuelve a tu favor, tiras dos dados y mantienes el mejor.
 
-Marks every time you use it.
+**Desventaja** [Des]: Cuando una situación se vuelve en tu contra, tiras dos dados y tomas el peor.
 
-Other items will have their marks and rules.
+### Combate
 
-## How to play
+_El combate nunca es deseable y debería ser evitado, sin embargo, no siempre es posible._
 
-_For us, TTRPGs are conversations between the GM and the players, in which the GM presents a situation and the players respond with their characters. The GM then narrates the consequences that lead to the next situation, and thus the story advances._
+Si logras encontrar un enemigo desprevenido, el enemigo está sorprendido. De lo contrario, todos los que entran en combate tiran una salvación de SAB y se organizan los turnos.
 
-### Role Play
+Cada turno los Personajes pueden moverse y tomar una acción. Una acción puede ser negociar, atacar, escapar o intentar un truco.
 
-As players we also play the role of our characters, reacting and acting as your character would. You can narrate what your character does or speak as if you were your character.
+(Algo con estrategia y orden cambiante)
 
-Best Practices
+**Ataques** En combate los personajes tiran el dado de su arma. Si el dado tira 1 el ataque falla, de lo contrario, el dado indica el daño. Esto se reduce por la armadura (si la tienes). El resto reduce [Valor].
 
-- Ask away. Jot things down. Sketch out maps.
-- Team up. Make plans. Ally up.
-- Dice are a gamble. Got a plan? Dodge those rolls.
-- Aim to win. Love the fails. Embrace the flops.
-- Fight dirty.
+#### Lesiones, Condiciones y Muerte
 
-### Saves
+Cuando pierdes todo tu [Valor] recibes una tarjeta de herida por cada daño. Si no puedes recibir más heridas, tu personaje muere.
 
-When your character wants to do something with a risky or uncertain outcome, you roll a save from the attribute related to the activity. _(Roll under o roll above)_
+##### Condiciones
 
-**Opposed Saves:** When competing against another creature both roll saves and compare each other.
+- **Ciego**: No puedes ver. Tienes [Des] en todas tus acciones.
+- **Sangrando**: Tiras una salvación de [CON] al final de cada turno. Si fallas recibes una herida. Se limpia después de sanar o Descanso Completo.
+- **Sin Aliento**: Durante tu turno puedes moverte o atacar, no ambos. Se limpia después de descanso corto.
+- **Aturdido**: Pierdes tu próximo turno. Se limpia después del turno.
+- **Herido**: Tienes [Des] en todas tus acciones. (Ocupa una ranura específica)(Tiene una versión genérica). Se limpia después de sanar.
+- **Envenenado**: Tiras una salvación de [CON] al final de cada turno. Si fallas recibes otro Envenenado. Se limpia después de sanar o Descanso Completo.
+- **Aterrorizado**: Necesitas salvar [SAB] para hacer cualquier cosa. Se limpia después de descanso corto.
+- **Agotado**: Tienes [Des] en todas tus salvaciones de [DEX] y [STR]. Se limpia después de descanso largo.
+- **Paralizado**: No puedes moverte ni atacar. Se limpia después de salvar [CON].
+- **Hambriento**: Necesitas comer algo. Se limpia después de comida.
 
-**Advantage** [Adv]: When a situation turns in your favor, you roll two dice and keep the best one.
+### Valor
 
-**Disadvantage** [Dis]: When a situation turns against you, you roll two dice and take the worst one.
+[Valor] representa la habilidad de un personaje para resistir golpes. Una vez pierdes todo tu [Valor] recibes una tarjeta de herida por cada daño. Si no puedes recibir más heridas, tu personaje muere.
 
-### Combat
+### Descanso y Sanación
 
-_Combat is never desirable and should be avoided, yet it is not always possible._
+Hay tres tipos de descansos.
 
-If you manage to find an unsuspecting enemy, the enemy is surprised. Otherwise, everyone who enters combat rolls a WIS save and the turns are organized.
+- Corto: Recuperas 1 [Valor]
+- Largo: Recuperas 1d6+1 [Valor] por una ración.
+- Completo: Recuperas todo tu [Valor] _y puedes tirar progreso de Atributo_.
 
-Each turn the Characters can move and take an action. An action can be negotiating, attacking, escaping or trying a trick.
+## Magia
 
-(Something with strategy and changing order)
+La magia es un acontecimiento raro en el mundo, quienes pueden usarla son considerados seres poderosos a ser respetados, temidos o incluso adorados. Los secretos de la magia están estrechamente guardados y casi olvidados y enterrados en lo profundo de la naturaleza. Los pocos que conocen las palabras de poder pueden canalizar su mana para lanzar hechizos. Los maestros pueden tejer múltiples palabras para crear efectos poderosos.
 
-**Attacks** In combat the characters roll the dice for their weapon. If the die rolls 1 the attack fails, otherwise the die indicates the damage. This is reduced by armor (if you have it). The rest reduce [Grit].
+Para poder lanzar un hechizo necesitas conocer al menos una palabra de poder, también debes tener los puntos de mana para lanzarlo y luego tirar una salvación de [INT] para ver si puedes controlar el hechizo. El control funciona como un rango:
 
-#### Injuries, Conditions and Death
+- Si tiras por debajo del número/s de control, lanzas mal el hechizo y recibes una quemadura de mana.
+- Si tiras el número/s de control, lanzas el hechizo como se pretendía.
+- Si tiras por encima del número/s de control, lanzas el hechizo con efectos extras.
 
-When you lose all your [Grit] you receive a wound card for each damage. If you cannot receive any more wounds, your character dies.
+### Palabras de Poder <!-- v0.02 -->
 
-##### Conditions
+Las palabras de poder están escritas en el lenguaje antiguo de los dioses. Son los bloques de construcción de la magia. Cuantas más palabras conozcas, más hechizos poderosos puedes lanzar.
 
-- **Blind**: You cannot see. You have [Dis] on all your actions.
-- **Bleeding**: You roll a [CON] save at the end of each turn. If you fail you receive a wound.
-- **Winded**: During your turn you can move or attack, not both.
-- **Stunned**: You lose your next turn.
-
-### Grit
-
-[Grit] represents a character's ability to resist hits. Once you lose all your [Grit] you receive a wound card for each damage. If you cannot receive any more wounds, your character dies.
-
-### Rest and Healing
-
-There are three types of breaks.
-
-- Short: You recover 1 [Grit]
-- Long: You recover 1d6+1 [Grit] for one ration.
-- Complete: You recover all your [Grit] _and can roll Attribute progress_.
-
-## Magic
-
-Magic is a rare occurrence in the world, does who can use it are regarded as powerful beings to be respected, feared or even worshipped. The secrets of magic is tightly guarded and almost forgotten and buried deep into the wilderness. The few who know the words of power can channel their mana to cast spells. Masters can weave multiple words to create powerful effects.
-To be able to cast a spell you need to know at least one word of power, you should also have the mana points to cast it and then roll an [INT] save to see if you can control the spell. Control works as a range:
-
-- Si sacas menos que el número de control/es, fallas el hechizo y sufres una quemadura de maná.
-- Si sacas el número de control/es, lanzas el hechizo como se pretendía.
-- Si sacas más que el número de control/es, sobrecargas el hechizo y puede tener efectos adicionales.
-
-### Palabras de Poder
-
-Las palabras de poder están escritas en el antiguo lenguaje de los dioses. Son los bloques de construcción de la magia. Cuantas más palabras conozcas, más poderosos serán los hechizos que puedes lanzar.
-
-Aquí tienes una lista de palabras de poder:
+Aquí hay una lista de palabras de poder:
 
 - Absorber
 - Armadura
@@ -261,7 +261,7 @@ Aquí tienes una lista de palabras de poder:
 - Llama
 - Mano
 - Sanar
-- Tarro
+- Jarra
 - Luz
 - Escudo
 - Espina
@@ -269,95 +269,307 @@ Aquí tienes una lista de palabras de poder:
 - Marchitar
 - Madera
 
-<!-- El concepto de las Palabras de Poder ofrece un lienzo para la creatividad y la profundidad en el lanzamiento de hechizos. Aquí tienes un marco simple pero dinámico:
+#### Escudo
 
-Descubrimiento y Aprendizaje: Los usuarios de la magia comienzan con algunas Palabras de Poder básicas y pueden descubrir más a través de la exploración, el estudio o la interacción con entidades místicas. Cada palabra representa un elemento o concepto específico, como Fuego, Agua, Mente, Tiempo, etc.
-Hechizos de Combinación: Los jugadores crean hechizos combinando Palabras de Poder. El orden y la selección de las palabras afectan el resultado del hechizo, lo que permite una amplia variedad de efectos. Por ejemplo, combinar "Fuego" y "Flecha" podría crear un proyectil llameante, mientras que "Silencio" y "Mente" podrían dar lugar a un hechizo que bloquea la detección mágica.
-Escalado de Poder: La fuerza de un hechizo se determina por la habilidad del usuario de la magia y el número de palabras combinadas. Cuantas más palabras, más poderosos serán los efectos, pero también aumentará la dificultad y el riesgo de fallo.
-Maná y Agotamiento: El lanzamiento de hechizos consume maná o causa agotamiento. Los hechizos más complejos requieren más recursos, lo que añade una capa estratégica al uso de la magia.
-Efectos Ambientales: El entorno puede influir en la magia, haciendo que algunos hechizos sean más fuertes o más débiles. Esto anima a los jugadores a interactuar con su entorno y planificar estratégicamente el lanzamiento de hechizos.
-Rituales y Artefactos: Algunos hechizos o efectos pueden requerir rituales, condiciones específicas o artefactos. Esto puede impulsar la aventura y la exploración, ya que los jugadores buscan componentes raros o intentan cumplir condiciones para la magia poderosa.
+- Lanzamiento solo: Crea un escudo mágico que absorbe daño igual a Prom[Int] por 1 ronda.
+- Efecto: Cuando se combina con otros hechizos, aumenta sus capacidades defensivas, como agregar resistencia al daño o extender la duración.
+- Costo: 2
+- Control: 4-5
+- Fallo: El escudo parpadea y se desvanece. No ganas protección.
+- Sobrecarga: El escudo envuelve a los aliados cercanos. Extiende la protección a los aliados adyacentes por 1 ronda.
+- Quemadura de Mana: El escudo se rompe. Recibes daño Prom[Int] por la reacción.
 
-Sistema de Maná
-Reserva de Maná: Cada usuario de magia tiene una Reserva de Maná que refleja su capacidad para utilizar la magia. Esta reserva es un valor numérico que se agota a medida que se lanzan hechizos y se repone con el tiempo o a través de acciones específicas.
-Tasa de Absorción: Esta tasa determina qué tan rápido un usuario de magia puede reponer su Reserva de Maná desde su entorno o a través de la meditación. Factores como el entorno, los artefactos mágicos o las líneas ley podrían mejorar la absorción.
-Control de Maná: Refleja el nivel de habilidad del usuario de la magia para manejar hechizos complejos sin perder el control. Un mayor Control de Maná permite combinar más Palabras de Poder de manera efectiva, lanzar hechizos con mayor precisión y reducir el riesgo de fallo o retroceso del hechizo.
-Integración de Determinación
-Lanzamientos Desesperados: Permiten a los usuarios de magia utilizar su Determinación como último recurso para lanzar hechizos cuando el Maná es bajo. Esto representa aprovechar sus reservas físicas y su determinación para alimentar su magia, enfatizando la naturaleza peligrosa de tales actos.
-Potenciación de Hechizos: La Determinación puede gastarse voluntariamente para mejorar la potencia de los hechizos, aumentando efectos como el daño, la duración o el área de efecto. Esta debería ser una elección táctica, sopesando los beneficios inmediatos de un hechizo poderoso frente a las posibles repercusiones físicas.
-Recuperación de Determinación: Introduce rituales o pociones mágicas que recuperan la Determinación pero pueden requerir componentes raros o condiciones específicas, lo que las hace valiosas pero no fácilmente accesibles.
-Mecanismo de Palabras de Poder
-Incorporemos tus palabras en un sistema que fomente la creatividad y el pensamiento táctico:
+#### Luz
 
-Combos Básicos: Comienza definiendo combinaciones básicas de palabras que den como resultado hechizos sencillos. Por ejemplo:
+- Lanzamiento solo: Conjura una luz brillante que ilumina áreas oscuras y puede cegar enemigos por 1 ronda.
+- Efecto: Cuando se combina, aumenta el alcance o la duración de los hechizos, o agrega un efecto deslumbrante que puede desorientar enemigos.
+- Costo: 1
+- Control: 3
+- Fallo: La luz se atenúa rápidamente. Solo ilumina brevemente, sin ofrecer ventaja.
+- Sobrecarga: La luz se vuelve radiante cegadora. Puede desorientar enemigos por una ronda extra.
+- Quemadura de Mana: La luz explota. El lanzador recibe daño menor y queda deslumbrado por 1 ronda.
 
-Combos Avanzados: Introduce el concepto de hechizos avanzados que requieren un mayor nivel de Control de Maná y posiblemente más palabras. Por ejemplo:
+#### Sangre
 
-Duplicar + Hoja + Espina = Crea múltiples hojas con espinas que orbitan alrededor del lanzador, atacando a los enemigos cercanos.
-Absorber + Cristal + Luz = Un hechizo que absorbe la luz para llenar un cristal, que luego se puede usar como fuente de iluminación o para cegar a los enemigos.
+- Lanzamiento solo: Drena una pequeña cantidad de salud de un enemigo y la transfiere al lanzador.
+- Efecto: Agrega un efecto de leech a los hechizos, otorgando al lanzador salud al dañar enemigos.
+- Costo: 3
+- Control: 5-6
+- Fallo: La fuerza vital se rebela. El lanzador pierde una pequeña cantidad de salud.
+- Sobrecarga: El drenaje es más potente. Sana por una cantidad adicional del daño infligido.
+- Quemadura de Mana: El hechizo se revierte. El lanzador sufre daño igual a lo que hubiera sido sanado.
 
-Modificadores Ambientales y Situacionales: Los hechizos pueden tener diferentes efectos según el entorno o la situación. Por ejemplo, un hechizo de Flor podría tener propiedades curativas en un bosque pero volverse tóxico en un pantano.
+#### Hueso
 
-Hechizos de Rituales: Para efectos poderosos, se requiere una combinación de Palabras de Poder específicas, Maná, Determinación y condiciones ambientales para realizar un ritual. Esto podría implicar la creación de protecciones, la invocación de criaturas o el cambio del clima.
+- Lanzamiento solo: Invoca un arma o escudo espectral de hueso por [Int] rondas.
+- Efecto: Proporciona una mejora estructural a los hechizos, haciendo formas conjuradas más resistentes o mortales.
+- Costo: 4
+- Control: 4
+- Fallo: El hueso se deshace en polvo. El ítem es débil y se rompe fácilmente.
+- Sobrecarga: El hueso está imbuido con poder antiguo. El ítem gana propiedades mejoradas por [Int] rondas.
+- Quemadura de Mana: El hueso conjurado se une a ti. Reduce la movilidad o destreza, causando una disminución en defensa o capacidad de ataque por [Int] rondas.
 
-Determinación como Catalizador: Para hechizos que van más allá de los límites del lanzador, la Determinación puede actuar como un catalizador, aumentando el poder del hechizo pero con un riesgo personal. Por ejemplo, usar Llama + Látigo + Determinación podría crear un látigo de fuego devastador que también quema al lanzador, reduciendo la Determinación pero infligiendo un daño masivo.
+#### Eco
 
-Atributos para Palabras de Poder
-Ofensivo (Daño): El daño base que una palabra puede infligir. Por ejemplo, "Quemar" podría tener un daño base más alto en comparación con "Rayo". Este atributo es crucial para los hechizos destinados a dañar o destruir.
+- Lanzamiento solo: Amplifica la voz del lanzador, desorientando enemigos cercanos por 1 ronda.
+- Efecto: Cuando se combina, puede duplicar el efecto del próximo hechizo lanzado, aunque a una potencia reducida.
+- Costo: 2
+- Control: 6-7
+- Fallo: El eco distorsiona, causando confusión. Afecta negativamente al lanzador o aliados por 1 ronda.
+- Sobrecarga: El eco resuena con poder. El efecto de desorientación dura [Int] rondas adicionales.
+- Quemadura de Mana: El sonido se convierte en cacofonía. Causa sordera temporal al lanzador o aliados cercanos por [Int] rondas.
 
-Defensivo (Protección): La cantidad de daño o número de ataques que un hechizo puede absorber antes de disiparse. "Escudo" podría ofrecer un alto valor defensivo, mientras que "Armadura" proporciona protección moderada pero de mayor duración.
+#### Absorber
 
-Efecto (Utilidad): Describe la gama de efectos no dañinos que una palabra puede producir, como curación, fortalecimiento, debilitamiento o alteración del entorno. "Sanar" restaura la salud, "Flor" podría fomentar el crecimiento o la curación en un área, y "Marchitar" podría debilitar a los enemigos o estructuras.
+- Lanzamiento solo: Absorbe el próximo ataque mágico dirigido al lanzador, convirtiéndolo en salud.
+- Efecto: Cuando se combina, mejora los hechizos con una capa defensiva, convirtiendo una porción del daño recibido en mana.
+- Costo: 3
+- Control: 5
+- Fallo: El hechizo falla en absorber, dejando al lanzador vulnerable.
+- Sobrecarga: Absorbe ataques mágicos dirigidos a aliados cercanos también.
+- Quemadura de Mana: El hechizo se revierte, duplicando el daño del próximo ataque mágico recibido.
 
-Costo (Consumo de Maná): Indica cuánto Maná se requiere para lanzar el hechizo. Palabras más poderosas o combinaciones de palabras podrían tener un costo de Maná más alto, equilibrando su uso en el juego.
+#### Armadura
 
-Control (Precisión): Una medida de lo fácil o difícil que es lanzar un hechizo sin consecuencias no deseadas. Esto podría representarse mediante un número objetivo o rango. Los hechizos con mucho daño o efectos poderosos podrían tener rangos de control más ajustados, lo que los hace más arriesgados de lanzar.
+- Lanzamiento solo: Mejora la defensa física del lanzador, reduciendo el daño físico por Prom[Int] por [Int] rondas.
+- Efecto: Cuando se combina, aumenta la resistencia de objetos creados o la resistencia de aliados a ataques físicos.
+- Costo: 2
+- Control: 4-5
+- Fallo: La armadura es defectuosa, no ofreciendo protección.
+- Sobrecarga: La armadura también refleja una porción del daño físico al atacante.
+- Quemadura de Mana: El hechizo colapsa, debilitando temporalmente la defensa del lanzador, aumentando el daño físico recibido.
 
-Quemadura de Maná (Riesgo): Un efecto único que se activa en caso de un hechizo fallido o cuando la Determinación potencia un hechizo. Esto podría resultar en daño adicional para el lanzador, un efecto de retroceso o una oleada de magia salvaje que produce resultados impredecibles. La Quemadura de Maná añade un elemento de riesgo al usar hechizos poderosos o depender de la Determinación.
+#### Flecha
 
-Implementación de Atributos en el Juego
-Equilibrio de Hechizos: La interacción entre estos atributos permite una amplia gama de hechizos con diversos usos estratégicos. Por ejemplo, un hechizo de bajo costo y alto control como "Luz" podría ser útil para la exploración sin correr el riesgo de una Quemadura de Maná, mientras que un hechizo de alto costo y bajo control como "Llama + Látigo" sería un movimiento de combate poderoso pero con un riesgo significativo.
+- Lanzamiento solo: Conjura una flecha mágica que impacta un objetivo por Prom[Int] de daño.
+- Efecto: Cuando se combina, agrega capacidades de perforación a los hechizos, permitiéndoles eludir algunas defensas.
+- Costo: 1
+- Control: 3-4
+- Fallo: La flecha se desvía, fallando su objetivo.
+- Sobrecarga: Conjura múltiples flechas para atacar objetivos adicionales.
+- Quemadura de Mana: La flecha se revierte, hiriendo al lanzador.
 
-Elecciones Estratégicas: Los jugadores deben tomar decisiones estratégicas sobre cuándo usar ciertos hechizos en función de sus reservas de Maná, las demandas de la situación y los riesgos potenciales de la Quemadura de Maná. Esto añade profundidad al uso de la magia en el juego.
+#### Atar
 
-Creación de Hechizos: Los jugadores pueden crear hechizos combinando Palabras de Poder, teniendo en cuenta los atributos acumulativos de las palabras elegidas. Un hechizo que combine "Quemar + Flecha" podría tener una calificación y costo ofensivos moderados, con un rango de control específico para evitar la Quemadura de Maná.
+- Lanzamiento solo: Restringe un objetivo, previniendo movimiento por [Int] rondas.
+- Efecto: Cuando se combina, agrega un efecto de restricción a los hechizos, ralentizando o deteniendo enemigos.
+- Costo: 3
+- Control: 5
+- Fallo: El atadura se suelta, no teniendo efecto.
+- Sobrecarga: La atadura también silencia al objetivo, previniendo lanzamiento de hechizos.
+- Quemadura de Mana: El lanzador se convierte en restringido, restringiendo su movimiento.
 
-Lanzamientos Críticos y Errores: El atributo de Control introduce un elemento de habilidad en el lanzamiento de hechizos, donde los jugadores pueden apuntar a Lanzamientos Críticos para obtener efectos mejorados o correr el riesgo de Errores con consecuencias negativas. Esto podría verse influenciado por habilidades de los personajes, objetos mágicos o factores ambientales.
+#### Hoja
 
-Gestión de Maná y Determinación: Los jugadores deben administrar cuidadosamente su Maná y Determinación, equilibrando la necesidad de hechizos poderosos con el riesgo de agotar estos recursos. Elegir cuándo usar la Determinación para potenciar un hechizo agrega una capa de toma de decisiones tácticas, especialmente en situaciones desesperadas.
+- Lanzamiento solo: Conjura una hoja mágica que inflige Prom[Int] de daño cortante.
+- Efecto: Cuando se combina, afila los hechizos, aumentando su daño o cortando a través de protecciones mágicas.
+- Costo: 2
+- Control: 4
+- Fallo: La hoja se embotella, causando daño mínimo.
+- Sobrecarga: La hoja gana un efecto vorpal, aumentando las posibilidades de golpe crítico.
+- Quemadura de Mana: La hoja se vuelve contra el lanzador, causando una herida autoinfligida.
 
-Este sistema anima a los jugadores a involucrarse profundamente con los mecanismos de la magia, haciendo que el lanzamiento de hechizos sea una parte dinámica e integral de la experiencia de Bōken. Los jugadores deberán pensar cuidadosamente en sus elecciones, adaptarse a los resultados de sus hechizos y explorar el mundo para descubrir nuevas Palabras de Poder y combinaciones. -->
+#### Flor
 
-### Ejemplo de Hechizo
+- Lanzamiento solo: Causa que un área brote en flora curativa, restaurando Prom[Int] de salud a aliados dentro de ella por [Int] rondas.
+- Efecto: Cuando se combina, agrega una propiedad regenerativa a los hechizos, sanando lentamente con el tiempo.
+- Costo: 4
+- Control: 5-6
+- Fallo: La flora se marchita, no proporcionando sanación.
+- Sobrecarga: El efecto de sanación se duplica.
+- Quemadura de Mana: Plantas venenosas brotan en su lugar, dañando a aliados en el área.
 
-Desvanecer:
-• Lanzamiento individual: Vuelve invisible al lanzador o a un objeto durante [Int] rondas o hasta que el lanzador ataque.
-• Efecto: Los objetivos no pueden hacer una salvación contra el hechizo ni agregar Avg[Int]
-• Costo: 2
-• Control: 4-6
-• Fallo: _Tus ojos se desvanecen, dejándote ciego_ Obtienes la condición [Cegado] durante [Int] rondas.
-• Sobrecarga: _Tu cuerpo se desvanece, volviéndote invisible_ Tu objetivo y todos sus ataques se vuelven invisibles durante [Int] rondas.
-• Quemadura de Maná: Si falla, el hechizo funciona parcialmente, haciendo que las sombras o siluetas sean visibles para observadores atentos.
+#### Rayo
 
-### Hechizos de Firma
+- Lanzamiento solo: Lanza un rayo de energía a un objetivo, infligiendo Prom[Int] de daño elemental.
+- Efecto: Cuando se combina, electrifica los hechizos, agregando una oportunidad de aturdir o paralizar.
+- Costo: 2
+- Control: 3-4
+- Fallo: El rayo se disipa antes de alcanzar su objetivo.
+- Sobrecarga: El rayo se encadena a enemigos cercanos adicionales.
+- Quemadura de Mana: El lanzador es impactado, sufriendo daño y una posible aturdimiento.
 
-Los hechizos de firma son el descubrimiento por parte de un usuario de magia de una combinación única de palabras que solo ellos pueden lanzar. Estos hechizos suelen ser más poderosos, cuestan menos maná y tienen efectos únicos, pero tienden a ser más difíciles de controlar.
+#### Quemar
 
-Ejemplos:
+- Lanzamiento solo: Envuelve un objetivo en llamas, infligiendo Prom[Int] de daño por fuego durante [Int] rondas.
+- Efecto: Cuando se combina, agrega un efecto ardiente a los hechizos, causando daño continuo.
+- Costo: 3
+- Control: 4-5
+- Fallo: Las llamas se apagan, no causando daño.
+- Sobrecarga: El fuego se extiende, afectando un área más grande o más objetivos.
+- Quemadura de Mana: El hechizo incendia el entorno, potencialmente dañando al lanzador y aliados.
 
-1. Absorber, Hoja, Cristal = Sable Prismático de Gilban:
+#### Cristal
 
-2. Atar, Rayo, Hueso = Agarre Lich de Otomund:
+- Lanzamiento solo: Conjura una barrera de cristal que bloquea ataques y se rompe después de absorber Prom[Int]\*2 de daño.
+- Efecto: Cuando se combina, cristaliza los hechizos, mejorando su durabilidad o longevidad.
+- Costo: 3
+- Control: 5
+- Fallo: El cristal es frágil, rompiéndose fácilmente.
+- Sobrecarga: La barrera refleja una porción del daño a los atacantes.
+- Quemadura de Mana: El cristal explota, causando daño al lanzador y aliados cercanos.
 
-3. Quemar, Mano, Sanar = Abrazo del Fénix:
+#### Duplicar
 
-4. Tarro, Luz, Escudo = Linterna de Luz Esperanzadora:
+- Lanzamiento solo: Crea un duplicado ilusorio del lanzador que dura [Int] rondas o hasta que sea disipado.
+- Efecto: Cuando se combina, duplica el próximo hechizo lanzado, aunque el duplicado tiene un efecto reducido.
+- Costo: 4
+- Control: 6
+- Fallo: El duplicado es obviamente falso, no engañando a nadie.
+- Sobrecarga: Crea múltiples duplicados, aumentando la confusión entre los enemigos.
+- Quemadura de Mana: El duplicado se vuelve hostil, atacando al lanzador o aliados.
 
-5. Espina, Marchitar, Madera = Ira de la Naturaleza:
+#### Llama
+
+- Lanzamiento solo: Enciende un área pequeña o objetivo, causando Prom[Int] de daño por fuego instantáneamente.
+- Efecto: Agrega daño ígneo a los hechizos o causa que objetos se enciendan, infligiendo daño continuo.
+- Costo: 2
+- Control: 4
+- Fallo: La llama se extingue rápidamente, no causando daño.
+- Sobrecarga: La llama envuelve el área objetivo, aumentando el daño y el área de efecto.
+- Quemadura de Mana: Las llamas se salen de control, causando daño al lanzador y aliados cercanos.
+
+#### Mano
+
+- Lanzamiento solo: Conjura una mano espectral que puede manipular objetos o golpear enemigos por Prom[Int] de daño por fuerza.
+- Efecto: Agrega capacidades de manipulación a los hechizos, permitiendo control telequinético o mejora de agarre.
+- Costo: 3
+- Control: 5
+- Fallo: La mano parpadea y se desvanece, sin poder afectar nada.
+- Sobrecarga: La fuerza de la mano aumenta, permitiéndole agarrar enemigos o mover objetos más pesados.
+- Quemadura de Mana: La mano se vuelve contra el lanzador, intentando estrangularlos o interferir con sus acciones.
+
+#### Sanar
+
+- Lanzamiento solo: Restaura Prom[Int]\*2 de salud a un único objetivo.
+- Efecto: Agrega un componente curativo a los hechizos, restaurando salud con el tiempo o a múltiples objetivos.
+- Costo: 4
+- Control: 5-6
+- Fallo: La energía curativa se disipa, sin tener efecto.
+- Sobrecarga: El hechizo también elimina dolencias menores o condiciones del objetivo.
+- Quemadura de Mana: El hechizo drena la vitalidad del lanzador, transfiriéndola al objetivo en su lugar.
+
+#### Jarra
+
+- Lanzamiento solo: Atrapa una pequeña criatura u objeto dentro de una jarra mágica, inmovilizándola por [Int] rondas.
+- Efecto: Agrega un efecto de contención o supresión a los hechizos, limitando acciones enemigas o sellando peligros.
+- Costo: 3
+- Control: 5
+- Fallo: La jarra falla en formarse, dejando libre al objetivo.
+- Sobrecarga: La jarra se vuelve casi indestructible, extendiendo la duración y resistiendo intentos de liberarse.
+- Quemadura de Mana: La jarra implosiona si se intenta en una entidad demasiado poderosa, potencialmente dañando al lanzador y aliados cercanos.
+
+#### Espina
+
+- Lanzamiento solo: Hace brotar espinas del suelo alrededor de un área objetivo, infligiendo Prom[Int] de daño perforante a aquellos que pasen.
+- Efecto: Agrega un obstáculo o efecto de daño con el tiempo a los hechizos, creando barreras o trampas.
+- Costo: 2
+- Control: 4-5
+- Fallo: Las espinas son demasiado débiles, no causando daño.
+- Sobrecarga: Las espinas crecen rápidamente, cubriendo un área más grande o enredando enemigos.
+- Quemadura de Mana: Las espinas se vuelven contra el lanzador, brotando debajo de ellos y causando lesiones.
+
+#### Látigo
+
+- Lanzamiento solo: Conjura un látigo de energía que puede golpear por Prom[Int] de daño o desarmar a un oponente.
+- Efecto: Agrega flexibilidad o alcance a los hechizos, permitiendo golpes dirigidos o acercar objetos/enemigos.
+- Costo: 2
+- Control: 4
+- Fallo: El látigo se disipa antes de hacer contacto.
+- Sobrecarga: El látigo golpea con energía eléctrica, posiblemente aturdiendo al objetivo.
+- Quemadura de Mana: El látigo se revierte, hiriendo al lanzador o enredándolo.
+
+#### Marchitar
+
+- Lanzamiento solo: Causa que un objetivo envejezca rápidamente, debilitándolo y reduciendo su salida de daño por Prom[Int] por [Int] rondas.
+- Efecto: Agrega un efecto debilitante a los hechizos, drenando fuerza o vitalidad de enemigos.
+- Costo: 3
+- Control: 5
+- Fallo: El objetivo resiste el efecto de envejecimiento.
+- Sobrecarga: El efecto se propaga, afectando a múltiples objetivos dentro de un pequeño radio.
+- Quemadura de Mana: El hechizo se revierte, causando que el lanzador envejezca temporalmente y sufra habilidades debilitadas.
+
+#### Madera
+
+- Lanzamiento solo: Hace crecer una barrera o estructura de madera que puede proporcionar cobertura o impedir el movimiento. Puede absorber Prom[Int]\*2 de daño antes de romperse.
+- Efecto: Agrega creación estructural o manipulación de la naturaleza a los hechizos, permitiendo control ambiental.
+- Costo: 3
+- Control: 5
+- Fallo: La madera es frágil y se rompe fácilmente.
+- Sobrecarga: La estructura de madera se fortalece, absorbiendo más daño y durando más tiempo.
+- Quemadura de Mana: La estructura crece incontrolablemente, potencialmente atrapando al lanzador o aliados.
+
+#### Desvanecer
+
+- Lanzamiento solo: Hace temporalmente invisible al lanzador o a un objeto que toquen, haciéndolos más difíciles de detectar y atacar por [Int] rondas.
+- Efecto: Cuando se combina con otros hechizos, otorga ejecución sigilosa, reduciendo la posibilidad de detección o mejorando efectos de sorpresa.
+- Costo: 3
+- Control: 4-6
+- Fallo: El intento de invisibilidad parpadea, no proporcionando ocultamiento y dejando visible al lanzador.
+- Sobrecarga: La invisibilidad se extiende al entorno inmediato del lanzador, ocultando a aliados cercanos u objetos también.
+- Quemadura de Mana: El hechizo falla catastróficamente, delineando al lanzador en un aura brillante que los hace más visibles y fáciles de atacar, aumentando la precisión de los ataques entrantes contra ellos por [Int] rondas.
+
+### Hechizos Firmados
+
+Los hechizos firmados son el descubrimiento por un usuario mágico de una combinación única de palabras que solo ellos pueden lanzar. Estos hechizos suelen ser más poderosos, cuestan menos mana y tienen efectos únicos, pero tienden a ser más difíciles de controlar.
+
+#### Sable Prismático de Gilban
+
+- Combinación: Absorber, Hoja, Cristal
+- Efecto: Invoca un sable radiante de luz prismática que puede absorber y reflejar energía mágica. Inflige Máx[Int] de daño y puede desviar un solo hechizo de vuelta al lanzador por uso.
+- Costo: 4 (reducido debido a su naturaleza firmada)
+- Control: 6-7 (más difícil de controlar debido a su poder)
+- Especial: Si el hechizo reflejado golpea a un enemigo, el sable gana un modificador de daño adicional igual a la mitad del poder del hechizo original para el próximo ataque.
+- Fallo: El sable parpadea al invocar, causando daño radiante menor al lanzador.
+- Sobrecarga: La energía radiante del sable explota en el próximo golpe, causando daño de área a enemigos alrededor del objetivo.
+- Quemadura de Mana: El sable se rompe en fragmentos prismáticos dañinos, causando daño significativo al lanzador y aliados cercanos.
+
+#### Agarre de Liche de Otomund
+
+- Combinación: Atar, Rayo, Hueso
+- Efecto: Crea una mano espectral que emerge del suelo, agarrando e inmovilizando a un objetivo. Inflige Prom[Int] de daño necrótico por ronda durante [Int] rondas y paraliza al objetivo.
+- Costo: 5
+- Control: 7
+- Especial: Si el objetivo es asesinado por este hechizo, temporalmente se levanta como un sirviente no muerto para el lanzador por [Int] minutos.
+- Fallo: La mano espectral agarra al lanzador en su lugar, inmovilizándolos por 1 ronda.
+- Sobrecarga: La mano aplasta con fuerza mortal, causando daño necrótico adicional y extendiendo la duración del sirviente no muerto si mata al objetivo.
+- Quemadura de Mana: La mano se vuelve contra el lanzador, drenando su fuerza vital y reduciendo temporalmente su salud máxima.
+
+#### Abrazo del Fénix
+
+- Combinación: Quemar, Mano, Sanar
+- Efecto: Envuelve al lanzador o al objetivo en un fuego protector que sana Máx[Int] de daño instantáneamente y proporciona inmunidad al daño por fuego durante [Int] rondas. Además, si el objetivo está a 0 de salud, lo revive a 1 de salud.
+- Costo: 6 (debido a sus potentes capacidades de curación y protección)
+- Control: 5-6
+- Especial: Al activarse, enemigos dentro de un radio cercano reciben Prom[Int] de daño por fuego debido a la explosión de la llama.
+- Fallo: El fuego arde incontrolablemente, hiriendo al objetivo y causando daño por fuego en lugar de sanar.
+- Sobrecarga: El fuego protector resucita al objetivo con salud adicional si estaban a 0 de salud, y otorga un aura de fuego temporal que daña a enemigos cercanos.
+- Quemadura de Mana: El fuego del hechizo envuelve al lanzador en llamas, causando daño significativo y potencialmente dejándolos inconscientes.
+
+#### Linterna de Luz Esperanzadora
+
+- Combinación: Jarra, Luz, Escudo
+- Efecto: Invoca una linterna flotante que irradia una luz poderosa, proporcionando un escudo que absorbe Prom[Int]\*3 de daño a todos los aliados dentro de su abrazo luminoso durante [Int] rondas. También disipa la oscuridad y revela entidades invisibles.
+- Costo: 4
+- Control: 6
+- Especial: Aliados dentro del radio de luz ganan un bono en sus tiradas de ataque debido a la mejora de visibilidad.
+- Fallo: La linterna se atenúa inmediatamente, ofreciendo ni protección ni iluminación y dejando al lanzador vulnerable.
+- Sobrecarga: La luz de la linterna alcanza más lejos, mejorando su escudo protector y revelando trampas ocultas o mágicas además de entidades invisibles.
+- Quemadura de Mana: La linterna explota en un destello cegador, causando daño a aliados y cegándolos temporalmente.
+
+#### Ira de la Naturaleza
+
+- Combinación: Espina, Marchitar, Madera
+- Efecto: Invoca un torbellino de la furia de la naturaleza, causando que enredaderas espinosas erupcionen del suelo, infligiendo Máx[Int] de daño y enredando a enemigos en un área amplia. Los enemigos afectados sufren una reducción en velocidad y toman daño continuo durante [Int] rondas.
+- Costo: 5
+- Control: 7
+- Especial: El área enredada se convierte en terreno difícil, dificultando el movimiento enemigo y proporcionando cobertura para el lanzador y aliados.
+- Fallo: Las enredaderas invocadas se vuelven contra el lanzador, enredándolos y causando daño inicial.
+- Sobrecarga: El área afectada por el hechizo se expande significativamente, y las enredaderas drenan fuerza de enemigos, transfiriéndola al lanzador y aliados como salud temporal.
+- Quemadura de Mana: La energía del hechizo se vuelve salvaje e incontrolable, causando que el terreno se vuelva peligroso para todos, incluyendo al lanzador y aliados, y posiblemente alterando el paisaje de manera perjudicial.
 
 ## Glosario
 
 - **Salvación:** Una tirada para determinar el resultado de una acción.
-- **Avg[Atributo]:** El promedio del atributo. Ejemplo: Int = d6, Avg[Int] = 3.
-- **Max[Atributo]:** El máximo del atributo. Ejemplo: Int = d6, Max[Int] = 6.
--
+- **Prom[Attribute]:** El promedio del atributo. ej: Int = d6, Prom[Int] = 3.
+- **Máx[Attribute]:** El máximo del atributo. ej: Int = d6, Máx[Int] = 6.
