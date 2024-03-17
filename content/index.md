@@ -1,12 +1,12 @@
-# Bōken <!-- v0.1 -->
+# Bõken <!-- v0.1 -->
 
 _冒険_ means Adventurer
 
 ## Introduction
 
-Bōken invites you on a journey where every choice carves the path of your legacy. In a realm where darkness claws at the edges of reality, and the air is laden with the whispers of forgotten gods, you are the beacon against the encroaching gloom. This is not just a game; it's a challenge to the brave, a call to the wise, and a beckoning to those who dare to dream. Bōken is your story, a tapestry of peril and triumph woven with the threads of your imagination.
+Bõken invites you on a journey where every choice carves the path of your legacy. In a realm where darkness claws at the edges of reality, and the air is laden with the whispers of forgotten gods, you are the beacon against the encroaching gloom. This is not just a game; it's a challenge to the brave, a call to the wise, and a beckoning to those who dare to dream. Bõken is your story, a tapestry of peril and triumph woven with the threads of your imagination.
 
-### Why Bōken?
+### Why Bõken?
 
 - Dice-size Attribute:
 
@@ -40,17 +40,17 @@ Words of Power: Magic here is not just cast but crafted, a domain where creativi
 Usage and Conditions: Every item in your possession tells a story, marked by battles fought and challenges overcome, adding depth to every choice.
 -->
 
-### The World of Bōken
+### The World of Bõken
 
 A land shrouded in shadow, where the remnants of a once bright world struggle against the tide of darkness. Here, ancient evils stir in the deep woods, and spirits haunt the ruins of forgotten realms. It's a world where the line between heroism and survival is thin, and legends are born from the deeds of those who dare to challenge the darkness. Welcome to a place where every victory is etched with the scars of sacrifice, and the light of hope is a precious flame guarded by the few against the many.
 
-> This is the default setting for Bōken, but the system is designed to be adaptable to any setting or genre.
+> This is the default setting for Bõken, but the system is designed to be adaptable to any setting or genre.
 > The rules and mechanics are designed for a dark world, low fantasy, and high risk. The world is a dangerous place, and the players will need to be smart, resourceful, and lucky to survive.
 > Still a creative GM can tweak some of the numbers and rules to change the theme and tone of the game.
 
 <!-- A land shrouded in shadow, where the remnants of a once bright world struggle against the tide of darkness. Here, ancient evils stir in the deep woods, and spirits haunt the ruins of forgotten realms. It's a world where the line between heroism and survival is thin, and legends are born from the deeds of those who dare to challenge the darkness. Welcome to a place where every victory is etched with the scars of sacrifice, and the light of hope is a precious flame guarded by the few against the many.
 
-Bōken's core is adaptability, designed to thrive in the darkest corners of fantasy or the brightest peaks of adventure. It's a call to arms for those who seek to forge their own path, to challenge the darkness with steel and spell. -->
+Bõken's core is adaptability, designed to thrive in the darkest corners of fantasy or the brightest peaks of adventure. It's a call to arms for those who seek to forge their own path, to challenge the darkness with steel and spell. -->
 
 ## Gear and prices
 
@@ -354,7 +354,7 @@ Critical Casts and Misspells: The Control attribute introduces a skill element t
 
 Mana and Grit Management: Players must manage their Mana and Grit carefully, balancing the need for powerful spells with the risk of depleting these resources. Choosing when to use Grit to empower a spell adds a layer of tactical decision-making, especially in dire situations.
 
-This system encourages players to engage deeply with the magic mechanics, making spellcasting a dynamic and integral part of the Bōken experience. Players will need to think carefully about their choices, adapt to the outcomes of their spells, and explore the world to discover new Words of Power and combinations. -->
+This system encourages players to engage deeply with the magic mechanics, making spellcasting a dynamic and integral part of the Bõken experience. Players will need to think carefully about their choices, adapt to the outcomes of their spells, and explore the world to discover new Words of Power and combinations. -->
 
 <!--
 #### ${Word of Power}

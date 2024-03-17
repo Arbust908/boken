@@ -7,3 +7,14 @@
     </ContentDoc>
   </main>
 </template>
+
+<style>
+@media print {
+  main {
+    margin: 10mm 15mm;
+  }
+  footer {
+    page-break-after: always;
+  }
+}
+</style>
