@@ -2,6 +2,8 @@
 
 _冒険_ means Adventurer
 
+<div class='page_break'></div>
+
 ## Introduction
 
 Bõken invites you on a journey where every choice carves the path of your legacy. In a realm where darkness claws at the edges of reality, and the air is laden with the whispers of forgotten gods, you are the beacon against the encroaching gloom. This is not just a game; it's a challenge to the brave, a call to the wise, and a beckoning to those who dare to dream. Bõken is your story, a tapestry of peril and triumph woven with the threads of your imagination.
@@ -52,6 +54,8 @@ A land shrouded in shadow, where the remnants of a once bright world struggle ag
 
 Bõken's core is adaptability, designed to thrive in the darkest corners of fantasy or the brightest peaks of adventure. It's a call to arms for those who seek to forge their own path, to challenge the darkness with steel and spell. -->
 
+<div class='page_break'></div>
+
 ## Gear and prices
 
 | Item           | Cost | Slots | Usage | Conditions                             |
@@ -71,6 +75,8 @@ Bõken's core is adaptability, designed to thrive in the darkest corners of fant
 | Map            | 1    | 1     | -     | -                                      |
 | Compass        | 1    | 1     | -     | -                                      |
 | Whistle        | 1    | 1     | -     | -                                      |
+
+<div class='page_break'></div>
 
 ## Making an Adventurer
 
@@ -130,6 +136,8 @@ Your wealth is determined by your background and is gaged via Usage Dice.
 | 17  | Hunter      | tent, bearskin, bear trap                          | d8     |
 | 18  | Experiment  | Rags, 2 Power words                                | -      |
 
+<div class='page_break'></div>
+
 ## Starting equipment
 
 You start your adventure with Torches, Rations, and whatever your Background gives you.
@@ -139,6 +147,8 @@ You start your adventure with Torches, Rations, and whatever your Background giv
 You can give your adventure its details but I’m if you need inspiration or preference to leave the details to luck you can use the table below.
 
 <!-- ToDo: Add a table with details -->
+
+<div class='page_break'></div>
 
 ## Inventory
 
@@ -188,6 +198,8 @@ You score a point every 6 turns.
 Marks every time you use it.
 
 Other items will have their marks and rules.
+
+<div class='page_break'></div>
 
 ## How to play
 
@@ -255,6 +267,8 @@ There are three types of breaks.
 - Short: You recover 1 [Grit]
 - Long: You recover 1d6+1 [Grit] for one ration.
 - Complete: You recover all your [Grit] _and can roll Attribute progress_.
+
+<div class='page_break'></div>
 
 ## Magic
 

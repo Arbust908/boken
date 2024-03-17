@@ -13,7 +13,7 @@
   main {
     margin: 10mm 15mm;
   }
-  footer {
+  .page_break {
     page-break-after: always;
   }
 }
